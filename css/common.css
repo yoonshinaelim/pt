@@ -1,6 +1,7 @@
 @charset "utf-8";
 @import url(font/stylesheet.css);
 
+/* common */
 *{margin:0;padding:0;color:#000;}
 html, body{margin:0;padding:0;font-size:16px;width:100%;height:100%;}
 body{font-family:Poppins, "Noto Serif KR";color:#000;-webkit-user-select:none;-moz-user-select:none; -ms-user-select:none; user-select:none;}
@@ -16,24 +17,25 @@ a{text-decoration:none;color:#000;}
 #header .logo_wrap .logo{background:url(../img/main/h_logo.png) 0 0 no-repeat;width:131px;height:26px;}
 #header .logo_wrap .logo a{display:block;width:100%;height:100%;font-size:0;}
 #header .logo_wrap .txt{font-size:14px;margin-top:10px;}
-#header .btn_menu{font-size:0;position:absolute;width:40px;height:25px;top:30px;right:40px;}
-#header .btn_menu::before{content:"";position:absolute;top:0;background:#000;width:100%;height:6px;transition:all .5s;}
-#header .btn_menu::after{content:"";position:absolute;bottom:0;background:#000;width:100%;height:6px;transition:all .5s;}
-
-#header .btn_menu.on:before{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(-45deg);}
-#header .btn_menu.on:after{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(45deg);}
-
+/* head on */
 #header.on{background:none;}
 #header.on .logo_wrap .logo{background:url(../img/main/h_logo_w.png) 0 0 no-repeat;width:131px;height:26px;}
 #header.on .txt{color:#fff;}
 
+/* menu button */
+#header .btn_menu{font-size:0;position:absolute;width:40px;height:25px;top:30px;right:40px;}
+#header .btn_menu::before{content:"";position:absolute;top:0;background:#000;width:100%;height:6px;transition:all .5s;}
+#header .btn_menu::after{content:"";position:absolute;bottom:0;background:#000;width:100%;height:6px;transition:all .5s;}
+/* menu button on*/
+#header .btn_menu.on:before{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(-45deg);}
+#header .btn_menu.on:after{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(45deg);}
 
 /* menu */
 #menuList{position:fixed;display:none;background:#000;width:100%;height:100%;top:0;left:0;z-index:10000;transition:all .5s;}
 #menuList .list{position:absolute;top:calc(50% - 250px);left:calc(50% - 350px);}
 #menuList .list li a{font-size:120px;color:#fff;}
 #menuList .copy {font-size:13px;position:absolute;bottom:40px;right:40px;color:#fff;}
-
+/* menu on*/
 #menuList.on {display:block;transition:all .2s;}
 
 /* main */
