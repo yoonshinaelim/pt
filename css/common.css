@@ -42,6 +42,6 @@ a{text-decoration:none;color:#000;}
 #container{padding:150px 0;}
 #container .list{display:flex;flex-wrap:wrap; margin:0 auto;padding:0;border-radius:8px;width:1360px;}
 #container .list li{width:33.33%;}
-#container .list li .btn{display:block;height:500px;margin:1rem;background:#000;color:#fff;text-align:center;border-radius:50px;}
+#container .list li .btn{display:block;height:600px;margin:1rem;background:#000;color:#fff;text-align:center;border-radius:50px;}
 
 
