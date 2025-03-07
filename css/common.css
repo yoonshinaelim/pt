@@ -1,7 +1,6 @@
 @charset "utf-8";
 @import url(font/stylesheet.css);
 @import url(media.css);
-@import url(swiper-bundle.min.css);
 
 *{margin:0;padding:0;color:#000;}
 html, body{margin:0;padding:0;font-size:16px;width:100%;height:100%;}
@@ -20,12 +19,12 @@ a{text-decoration:none;color:#000;}
 #header .btn_menu::after{content:"";position:absolute;bottom:0;background:#000;width:100%;height:6px;}
 
 /* menu */
-#menu{position:fixed;display:none;background:#000;width:100%;height:100%;top:0;left:0;z-index:10000;}
-#menu ul.list{position:absolute;top:calc(50% - 250px);left:calc(50% - 350px);}
-#menu ul.list li a{font-size:120px;color:#fff;}
+.list_menu{position:fixed;display:none;background:#000;width:100%;height:100%;top:0;left:0;z-index:10000;}
+.list_menu .list{position:absolute;top:calc(50% - 250px);left:calc(50% - 350px);}
+.list_menu .list li a{font-size:120px;color:#fff;}
 
 /* main */
-#container .list{display:flex;flex-wrap:wrap;display:flex;margin:0 auto;padding:0;border-radius:8px;width:1360px;}
-#container .list .btn_wrap{width:33.33%;flex-direction:column;}
-#container .list .btn_wrap .btn{display:block;margin:2rem 1rem;height:500px;background:#000;color:#fff;text-align:center;border-radius:50px;visibility:hidden;}
+#container .list{display:flex;flex-wrap:wrap; margin:0 auto;padding:0;border-radius:8px;width:1360px;}
+#container .list li{width:29%;padding:20px;}
+#container .list li .btn{display:block;width:100%;height:500px;background:#000;color:#fff;text-align:center;border-radius:50px;}
 

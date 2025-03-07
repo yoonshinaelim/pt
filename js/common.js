@@ -1,9 +1,12 @@
+window.addEventListener("scroll", (event)=> {
+    let scrollY = this.scrollY;
+    if(scrollY == 0){
+        ScrollReveal().reveal('#mainList li', {reset:true, delay :10, distance: '50px', opacity:1});
+    }
+})
 
-$(document).ready(function(){
-});
 
-// main list
+ScrollReveal().reveal('#mainList li', {reset:false, delay :10, distance: '50px', opacity:1});   
 
-ScrollReveal().reveal('#container .column1 .btn', {interval:200});
-ScrollReveal().reveal('#container .column2 .btn', {interval:200});
-ScrollReveal().reveal('#container .column3 .btn', {interval:200});
+
+
