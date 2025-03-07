@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-ExtraBold.woff2') format('woff2'),
+        url('Poppins-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-Light.woff2') format('woff2'),
+        url('NotoSerifKR-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-Medium.woff2') format('woff2'),
+        url('NotoSerifKR-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-Regular.woff2') format('woff2'),
+        url('NotoSerifKR-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-ExtraLight.woff2') format('woff2'),
+        url('NotoSerifKR-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-ExtraBold.woff2') format('woff2'),
+        url('NotoSerifKR-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-Bold.woff2') format('woff2'),
+        url('NotoSerifKR-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    src: url('NotoSerifKR-Black.woff2') format('woff2'),
+        url('NotoSerifKR-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
