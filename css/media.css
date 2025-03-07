@@ -1,7 +1,8 @@
-@media all and (max-width: 640px){
-    * {font-size: 12px;}
-}
 @media all and (max-width: 1360px){
-    #container .list{width:100% !important;}
-    #container .list li{width:45% !important;}
+    #container .list{width:100%;}
+    #container .list li .btn{height:400px;}
+}
+@media all and (max-width: 640px){
+
+    #container .list li{width:50%;}
 }
