@@ -16,7 +16,7 @@ a{text-decoration:none;color:#000;}
 #header .logo_wrap{position:absolute;top:20px;left:40px;}
 #header .logo_wrap .logo{background:url(../img/main/h_logo.png) 0 0 no-repeat;width:131px;height:26px;}
 #header .logo_wrap .logo a{display:block;width:100%;height:100%;font-size:0;}
-#header .logo_wrap .txt{font-size:14px;margin-top:10px;}
+#header .logo_wrap .txt{font-size:14px;margin-top:20px;}
 /* head on */
 #header.on{background:none;}
 #header.on .logo_wrap .logo{background:url(../img/main/h_logo_w.png) 0 0 no-repeat;width:131px;height:26px;}
@@ -27,8 +27,8 @@ a{text-decoration:none;color:#000;}
 #header .btn_menu::before{content:"";position:absolute;top:0;background:#000;width:100%;height:6px;transition:all .5s;}
 #header .btn_menu::after{content:"";position:absolute;bottom:0;background:#000;width:100%;height:6px;transition:all .5s;}
 /* menu button on*/
-#header .btn_menu.on:before{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(-45deg);}
-#header .btn_menu.on:after{content:"";position:absolute;top:10px;background:#fff;width:100%;height:6px;transform:rotate(45deg);}
+#header .btn_menu.on:before{top:10px;background:#fff;transform-origin:center;transform:rotate(-45deg);}
+#header .btn_menu.on:after{bottom:10px;background:#fff;transform-origin:center;transform:rotate(45deg);}
 
 /* menu */
 #menuList{position:fixed;display:none;background:#000;width:100%;height:100%;top:0;left:0;z-index:10000;transition:all .5s;}
