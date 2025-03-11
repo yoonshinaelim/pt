@@ -30,20 +30,20 @@ if (document.querySelector("#wrap").classList.contains("main")) {
     });
 }else if (document.querySelector("#wrap").classList.contains("about")) {
     //about
-    gsap.registerPlugin(ScrollTrigger);
-    gsap.utils.toArray(".section_box").forEach((box) => {
-        gsap.to(box, {
-            opacity: 1,
-            y: 0,
-            duration: 1.2,
-            ease: "power2.out",
-            scrollTrigger: {
-                trigger: box,
-                start: "top 80%", // 화면의 80% 지점에서 시작
-                toggleActions: "play none none reverse"
-            }
-        });
-    });
+    // gsap.registerPlugin(ScrollTrigger);
+    // gsap.utils.toArray(".section_box").forEach((box) => {
+    //     gsap.to(box, {
+    //         opacity: 1,
+    //         y: 0,
+    //         duration: 1.2,
+    //         ease: "power2.out",
+    //         scrollTrigger: {
+    //             trigger: box,
+    //             start: "top 80%", // 화면의 80% 지점에서 시작
+    //             toggleActions: "play none none reverse"
+    //         }
+    //     });
+    // });
 }
 
 
