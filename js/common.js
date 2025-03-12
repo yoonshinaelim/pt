@@ -1,3 +1,4 @@
+
 if (document.querySelector("#wrap").classList.contains("main")) {
     //main
     const body = document.querySelector("#body"),
@@ -20,6 +21,7 @@ if (document.querySelector("#wrap").classList.contains("main")) {
     //load scroll top 0
     window.onbeforeunload = function(){
         window.scrollTo(0, 0);
+        
     };
 
     //scroll event
