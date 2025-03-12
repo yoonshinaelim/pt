@@ -1,4 +1,3 @@
-
 if (document.querySelector("#wrap").classList.contains("main")) {
     //main
     const body = document.querySelector("#body"),

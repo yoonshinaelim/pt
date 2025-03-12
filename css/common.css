@@ -2,7 +2,7 @@
 @import url(font/stylesheet.css);
 
 /* common */
-*{margin:0;padding:0;color:#000;}
+*{margin:0;padding:0;color:#000;font-family:'Noto Serif KR', Poppins;}
 html, body{margin:0;padding:0;font-size:16px;width:100%;height:100%;font-family:'Noto Serif KR', Poppins;}
 body{color:#000;-webkit-user-select:none;-moz-user-select:none; -ms-user-select:none; user-select:none;}
 ul,li{list-style:none;}
@@ -96,3 +96,22 @@ a{text-decoration:none;color:#000;}
 
 
 
+/* contact */
+.contact_wrap .tit{font-size:150px;}
+.contact_wrap .txt{font-size:30px;margin-bottom:70px;}
+.contact_wrap .inpbox{background:#e3e3e3;height:130px;margin-top:30px;padding:0 50px;}
+.contact_wrap .inpbox:first-of-type{margin-top:0;}
+.contact_wrap .inpbox input{background:none;border:none;width:100%;height:100%;font-size:50px;outline:none;}
+.contact_wrap .inpbox input::placeholder {color:#999;}
+.contact_wrap .textareabox{background:#e3e3e3;height:500px;margin-top:30px;padding:50px;}
+.contact_wrap .textareabox textarea{background:none;border:none;width:100%;height:100%;font-size:50px;outline:none;}
+.contact_wrap .textareabox textarea::placeholder {color:#999;}
+.contact_wrap .buttonBox{margin-top:30px;width:100%;height:130px;}
+.contact_wrap .buttonBox button{background:#000;color:#fff;width:100%;height:100%;font-size:50px;cursor:pointer;}
+
+.footer{background:#000;padding:70px 0;}
+.foot_wrap{position:relative;width:1360px;margin:0 auto;}
+.foot_wrap .contact_list dt{color:#e3e3e3;font-size:30px;font-family:'Noto Serif KR';margin-top:50px;}
+.foot_wrap .contact_list dt:first-of-type{margin-top:0;}
+.foot_wrap .contact_list dd{color:#fff;font-size:45px;}
+.foot_wrap .btn_kakao{position:absolute;right:0;bottom:0;font-size:0;width:80px;height:80px;display:block;border:2px solid #fff;border-radius:50%;background:url(../img/contact/ico_kakao.png) no-repeat center;}
