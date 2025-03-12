@@ -1,4 +1,5 @@
 if (document.querySelector("#wrap").classList.contains("main")) {
+    //main
     const body = document.querySelector("#body"),
     menuButton = document.querySelector("#menu"),
     menuList = document.querySelector("#menuList"),
@@ -30,20 +31,30 @@ if (document.querySelector("#wrap").classList.contains("main")) {
     });
 }else if (document.querySelector("#wrap").classList.contains("about")) {
     //about
-    // gsap.registerPlugin(ScrollTrigger);
-    // gsap.utils.toArray(".section_box").forEach((box) => {
-    //     gsap.to(box, {
-    //         opacity: 1,
-    //         y: 0,
-    //         duration: 1.2,
-    //         ease: "power2.out",
-    //         scrollTrigger: {
-    //             trigger: box,
-    //             start: "top 80%", // 화면의 80% 지점에서 시작
-    //             toggleActions: "play none none reverse"
-    //         }
-    //     });
-    // });
+    gsap.registerPlugin(ScrollTrigger);
+    const tl = gsap.timeline({
+        scrollTrigger: {
+            trigger: ".contents",
+            start: "top 30%",
+            end: "bottom 100%",
+            scrub: 1,
+            yoyo:true
+        }
+    });
+    const commonProps = {y:-50, opacity:1, duration:2 , ease:"power1.out"},
+          box1Props = {rotation:0, y:-50, opacity:1, duration:2 , ease:"power1.out"};
+    tl.to(".box1 .bg", box1Props)
+      .to(".box1 .txt_box", commonProps)
+      .to(".box2 .bg", commonProps)
+      .to(".box2 .txt_box", commonProps)
+      .to(".box3 .bg", commonProps)
+      .to(".box3 .txt_box", commonProps)
+      .to(".box4 .bg", commonProps)
+      .to(".box4 .txt_box", commonProps)
+      .to(".box5 .bg.type1", commonProps)
+      .to(".box5 .bg.type2", commonProps)
+      .to(".box5 .bg.type3", commonProps)
+      .to(".box5 .txt_box", commonProps);
 }
 
 
