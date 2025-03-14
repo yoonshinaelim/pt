@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<work>
+    <exp id="1">
+        <number>1</number>
+        <entitle>SHINHANCARD11</entitle>
+        <entext>web&amp;mobile management111</entext>
+        <kotitle>신한카드 모바일 홈페이지 구축11</kotitle>
+        <kotext>1신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축</kotext>
+        <company>1M4A</company>
+        <period>1112024.07</period>
+        <url>111https://www.shinhancard.com</url>
+    </exp>
+    <exp id="2">
+        <number>2</number>
+        <entitle>SHINHANCARD22</entitle>
+        <entext>web&amp;mobile management22</entext>
+        <kotitle>삼성 모바일 홈페이지 구축22</kotitle>
+        <kotext>신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축</kotext>
+        <company>M4A22</company>
+        <period>2024.0722</period>
+        <url>https://www.shinhancard.com</url>
+    </exp>
+</work>

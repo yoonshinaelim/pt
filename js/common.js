@@ -30,6 +30,38 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             scrollRealStart();
         }
     });
+    
+    function goToDetail(id) {
+        window.location.href = `experience.html?id=${id}`;
+    }
+    let xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function(){
+        if(this.readyState == 4 && this.status == 200){
+            nodeValFunc(this);
+        }    
+        
+    }
+    xhttp.open("GET", "list.xml", true);
+    xhttp.send();
+
+    function nodeValFunc( xml ) {
+        let number, entitle, entext;
+        let num, entit, entxt, xmlDoc;
+
+        num = entit = entxt = '';
+        xmlDoc = xml.responseXML;
+        number = xmlDoc.getElementsByTagName("number");
+        entitle = xmlDoc.getElementsByTagName('entitle');
+        entext = xmlDoc.getElementsByTagName('entext');    
+
+        for(let i=0; i < number.length; i++){
+            num = number[i].childNodes[0].nodeValue;
+            entit = entitle[i].childNodes[0].nodeValue;
+            entxt = entext[i].childNodes[0].nodeValue;
+            document.getElementById('mainList').innerHTML += '<li id="listBtn"><a href="javascript:goToDetail('+ num +');" class="btn" style="background:#000 url(/img/experience/tit_bg'+ num +'.jpg) no-repeat center;"><span class="tit">'+ entit + '</span><span class="tit2">' + entxt +'</span></a></li>';
+        }
+        
+    }
 }else if (document.querySelector("#wrap").classList.contains("about")) {
     //about
     gsap.registerPlugin(ScrollTrigger);
