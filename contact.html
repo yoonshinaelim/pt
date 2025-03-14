@@ -19,10 +19,12 @@
                 <h1 class="tit">CONTACT</h1>
                 <p class="txt">프로젝트에 대한 간단한 설명을 입력해주세요.</p>
                 <div class="inputWrap">
-                    <div class="inpbox"><input type="text" name="" placeholder="company" /></div>
-                    <div class="inpbox"><input type="tel" name="" placeholder="phone number" /></div>
-                    <div class="textareabox"><textarea name="" class="textarea" placeholder="message"></textarea></div>
-                    <div class="buttonBox"><button type="submit" name="">send</button></div>
+                    <form id="contactForm">
+                        <div class="inpbox"><input type="text" id="comp" placeholder="company" required/></div>
+                        <div class="inpbox"><input type="tel" id="phone"  placeholder="phone number" required/></div>
+                        <div class="textareabox"><textarea name="" id="message" class="textarea" placeholder="message" required></textarea></div>
+                        <div class="buttonBox"><button type="submit">send</button></div>
+                    </form>
                 </div>
             </div>
         </div>
