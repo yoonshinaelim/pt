@@ -4,7 +4,7 @@ const titBg = document.getElementById('titBg');
 
 let details = {};
 
-titBg.style.background = 'url(../img/experience/tit_bg'+ id +'.jpg) no-repeat';
+titBg.style.background = 'url(./img/experience/tit_bg'+ id +'.jpg) no-repeat';
 // XML 데이터 불러오기
 fetch("list.xml")
     .then(response => response.text())
