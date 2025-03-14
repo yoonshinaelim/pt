@@ -20,8 +20,8 @@ app.post("/send-email", async (req, res) => {
     const mailOptions = {
         from: comp,
         to: "ysal77@gmail.com", // 수신자 이메일
-        subject: `문의사항: ${comp}`,
-        text: `보낸 사람:  ${comp} (${phone})\n\n메시지:\n${message}`
+        subject: '문의 사항 도착!',
+        text: '보낸 사람:  ${comp} (${phone})\n\n메시지:\n${message}'
     };
 
     try {
@@ -33,6 +33,6 @@ app.post("/send-email", async (req, res) => {
     }
 });
 
-app.listen(3000, () => {
-    console.log("서버 실행 중: http://localhost:3000");
+app.listen(8000, () => {
+    console.log("서버 실행 중: http://localhost:8000");
 });
