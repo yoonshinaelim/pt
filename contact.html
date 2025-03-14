@@ -20,9 +20,9 @@
                 <p class="txt">프로젝트에 대한 간단한 설명을 입력해주세요.</p>
                 <div class="inputWrap">
                     <form id="contactForm">
-                        <div class="inpbox"><input type="text" id="comp" placeholder="company" required/></div>
-                        <div class="inpbox"><input type="tel" id="phone"  placeholder="phone number" required/></div>
-                        <div class="textareabox"><textarea name="" id="message" class="textarea" placeholder="message" required></textarea></div>
+                        <div class="inpbox"><input type="text" id="comp" name="comp" placeholder="company" required /><label for="comp">회사명</label></div>
+                        <div class="inpbox"><input type="tel" id="phone" name="phone"  placeholder="phone number" required/><label for="phone">휴대전화번호</label></div>
+                        <div class="textareabox"><textarea id="message" name="message" class="textarea" placeholder="message" required></textarea><label for="comp">메세지</label></div>
                         <div class="buttonBox"><button type="submit">send</button></div>
                     </form>
                 </div>
@@ -41,6 +41,24 @@
         </div>
     </div>
 </div>
-<script src="js/common.js"></script>
+<script>
+    document.getElementById("contactForm").addEventListener("submit", async function(event) {
+        event.preventDefault();
+        const data = {
+            comp: document.getElementById("comp").value,
+            phone: document.getElementById("phone").value,
+            message: document.getElementById("message").value
+        };
+    
+        const response = await fetch("/send-email", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(data)
+        });
+    
+        const result = await response.json();
+        alert(result.message);
+    });
+</script>
 </body>
 </html>

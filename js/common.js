@@ -98,24 +98,6 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             btnX.classList.remove('on');
         }
       });
-}else if(document.querySelector("#wrap").classList.contains("contact")){
-    document.getElementById("contactForm").addEventListener("submit", async function(event) {
-        event.preventDefault();
-        const data = {
-            comp: document.getElementById("comp").value,
-            phone: document.getElementById("phone").value,
-            message: document.getElementById("message").value
-        };
-    
-        const response = await fetch("/send-email", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(data)
-        });
-    
-        const result = await response.json();
-        alert(result.message);
-    });
 }
 
 
