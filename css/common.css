@@ -124,5 +124,5 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 .foot_wrap .contact_list dt{color:#e3e3e3;font-size:1.25rem;font-family:'Noto Serif KR';margin-top:3.125rem;}
 .foot_wrap .contact_list dt:first-of-type{margin-top:0;}
 .foot_wrap .contact_list dd{color:#fff;font-size:2.5rem;}
-.foot_wrap .btn_kakao{position:absolute;right:0;bottom:0;font-size:0;width:5rem;height:5rem;display:block;border:0.125rem solid #fff;border-radius:50%;background:url(../img/contact/ico_kakao.png) no-repeat center;}
+.foot_wrap .btn_kakao{position:absolute;right:0;bottom:0;font-size:0;width:5rem;height:5rem;display:block;border:2px solid #fff;border-radius:50%;background:url(../img/contact/ico_kakao.png) no-repeat center;}
 
