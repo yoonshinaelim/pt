@@ -1,12 +1,19 @@
 @media all and (max-width: 1360px){
+    html, body {font-size:15px;transition:all .2s linear;}
     .contents{width:100%;}
     .contents .list{width:100%;}
-    .contents .list li{width:50%;}
-    .list_menu .list{}
-    .list_menu .list li a{font-size:5rem;}
     
 }
-@media all and (max-width: 780px){
-    html, body {font-size:13px;}
+@media all and (max-width: 960px){
+    html, body {font-size:14px;transition:all .2s linear;}
+    .contents .list li{width:50%;}
+    .list_menu .list li a{font-size:7rem;}
+
+    .section.box5 .bg_box .bg{width:100%;}
+}
+@media all and (max-width: 640px){
+    html, body {font-size:13px;transition:all .2s linear;}
     .contents .list li{width:100%;}
+    .list_menu .list li{padding:0 2.5rem;}
+    .list_menu .list li a{font-size:4rem;}  
 }
