@@ -1,11 +1,9 @@
 const express = require("express");
 const nodemailer = require("nodemailer");
-const cors = require("cors");
-
 const app = express();
-app.use(express.json());
-app.use(cors());
+const PORT = 3000;
 
+app.use(express.json());
 // 이메일 전송 설정
 const transporter = nodemailer.createTransport({
     service: "gmail", // Gmail 사용 (다른 SMTP 서비스도 가능)
@@ -33,6 +31,11 @@ app.post("/send-email", async (req, res) => {
     }
 });
 
-app.listen(8000, () => {
-    console.log("서버 실행 중: http://localhost:8000");
+// 기본 페이지 (루트 경로)
+app.get("/", (req, res) => {
+    res.send("✅ 서버가 정상적으로 실행 중입니다!");
+});
+
+app.listen(PORT, () => {
+    console.log(`✅ 서버 실행 중: http://localhost:${PORT}`);
 });
