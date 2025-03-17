@@ -8,7 +8,7 @@
     .section.box1{padding:18.75rem 2rem 0;}
     .section.box1 .bg{width:31.25rem;height:31.25rem;right:2rem;}
     .title_box.ab{position:fixed;top:0;left:0;background:url(../img/about/bg_about.jpg) center no-repeat;background-size:cover;}
-    .title_box.ab .tit{font-size:6rem;}
+    .title_box.ab .tit{font-size:7rem;line-height:9rem;}
     .title_box.ab +.contents {margin-top:66.25rem;}
 
     /* contact */
@@ -23,6 +23,7 @@
     .list_menu .list li a{font-size:7rem;}
     .ex_wrap .list_info{margin-left:5rem;}
     /* about */
+    .title_box.ab .tit{font-size:6rem;line-height:8rem;}
     .section.box1 .bg{width:21.875rem;height:21.875rem;}
     
     
@@ -45,7 +46,7 @@
     .title_box.ex .tit1{font-size:4rem;}
 
     /* about */
-    .title_box.ab .tit{font-size:3rem;}
+    .title_box.ab .tit{font-size:3.5rem;line-height:5rem;}
     .section.box1 .bg{width:21.875rem;height:21.875rem;}
     .section .br {display:inline;}
     /* contact */
