@@ -1,19 +1,28 @@
 @media all and (max-width: 1360px){
     html, body {font-size:15px;transition:all .2s linear;}
+    #container{overflow:hidden;}
     .contents{width:100%;}
     .contents .list{width:100%;}
+    .footer{padding:4.375rem;}
+    .foot_wrap{width:100%;}
+
     
 }
 @media all and (max-width: 960px){
     html, body {font-size:14px;transition:all .2s linear;}
+    .contents{width:auto;padding:8rem 2rem;}
     .contents .list li{width:50%;}
     .list_menu .list li a{font-size:7rem;}
-
     .section.box5 .bg_box .bg{width:100%;}
 }
 @media all and (max-width: 640px){
-    html, body {font-size:13px;transition:all .2s linear;}
+    html, body {font-size:12px;transition:all .2s linear;}
+    .contact_tit{font-size:5rem;padding-left:2rem;}
     .contents .list li{width:100%;}
     .list_menu .list li{padding:0 2.5rem;}
-    .list_menu .list li a{font-size:4rem;}  
+    .list_menu .list li a{font-size:4rem;} 
+    /* contact */
+    .map{height:450px;}
+    .footer{padding:2rem;}
+    .foot_wrap .btn_kakao{position:relative;margin-top:3.125rem;}
 }
