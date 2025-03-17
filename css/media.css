@@ -12,15 +12,28 @@
     html, body {font-size:14px;transition:all .2s linear;}
     .contents{width:auto;padding:8rem 2rem;}
     .contents .list li{width:50%;}
+    /* menu */
     .list_menu .list li a{font-size:7rem;}
-    .section.box5 .bg_box .bg{width:100%;}
+    .ex_wrap .list_info{margin-left:5rem;}
+    
 }
 @media all and (max-width: 640px){
     html, body {font-size:12px;transition:all .2s linear;}
+
     .contact_tit{font-size:5rem;padding-left:2rem;}
     .contents .list li{width:100%;}
+    /* menu */
     .list_menu .list li{padding:0 2.5rem;}
     .list_menu .list li a{font-size:4rem;} 
+    /* experience */
+    .ex_wrap{flex-direction: column-reverse;}
+    .ex_wrap .cell{margin-top:5rem;}
+    .ex_wrap .cell:last-of-type{margin-top:0;}
+    .ex_wrap .list_info{margin-left:0;}
+
+    .title_box.ex{height:450px;background-size:auto 100%;}
+    .title_box.ex .tit1{font-size:4rem;}
+    
     /* contact */
     .map{height:450px;}
     .footer{padding:2rem;}
