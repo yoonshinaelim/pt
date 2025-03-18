@@ -99,7 +99,7 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             btnX.classList.remove('on');
         }
       });
-}
+    }else if (document.querySelector("#wrap").classList.contains("contact")) {
 
 Kakao.init('4aa0d79bad1f0847ad42cb875dab555e');
     // key 값을 가져오는지 확인 > console.log(Kakao.isInitialized());
@@ -144,5 +144,5 @@ Kakao.init('4aa0d79bad1f0847ad42cb875dab555e');
         });
     }
 
-
+    }
 
