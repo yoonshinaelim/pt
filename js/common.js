@@ -89,10 +89,11 @@ if (document.querySelector("#wrap").classList.contains("main")) {
       .to(".box5 .bg.type3", commonProps)
       .to(".box5 .txt_box", commonProps);
 
+      let abH = document.getElementById('abH').offsetHeight;
       window.addEventListener("scroll", function(){
         let scrollY = this.scrollY;
         const btnX  = document.querySelector('.btn_closed');
-        if(scrollY > 1000){
+        if(scrollY > abH){
             btnX.classList.add('on');
         }else{
             btnX.classList.remove('on');
