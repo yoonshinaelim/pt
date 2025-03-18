@@ -2,7 +2,7 @@
 <work>
     <exp id="1">
         <number>1</number>
-        <entitle>S sports</entitle>
+        <entitle>s sports</entitle>
         <entext>web renewal ux design</entext>
         <kotitle>S스포츠본사 웹 사이트 구축</kotitle>
         <kotext>2014. 04. 23 ~ 2014. 05. 28</kotext>
@@ -38,7 +38,7 @@
         <kotext>2014. 06. 10 ~ 2014. 06. 19</kotext>
         <company>가나인트</company>
         <period>2014.06</period>
-        <url>http://tongin.co.kr</url>
+        <url>정보없음</url>
     </exp>
     <exp id="5">
         <number>5</number>
@@ -103,12 +103,12 @@
     <exp id="11">
         <number>11</number>
         <entitle>chehum</entitle>
-        <entext>website development</entext>
+        <entext>mobile web ux design</entext>
         <kotitle>열린체험터 모바일 웹 사이트 구축</kotitle>
         <kotext>2014. 09. 11 ~ 2014. 09. 19</kotext>
         <company>가나인트</company>
         <period>2014.09</period>
-        <url>정보없음</url>
+        <url>https://www.chehum.net/m/</url>
     </exp>
     <exp id="12">
         <number>12</number>
