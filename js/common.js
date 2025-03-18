@@ -101,5 +101,48 @@ if (document.querySelector("#wrap").classList.contains("main")) {
       });
 }
 
+Kakao.init('4aa0d79bad1f0847ad42cb875dab555e');
+    // key 값을 가져오는지 확인 > console.log(Kakao.isInitialized());
+    function shareMessage() {
+        // 현재 링크 가져오기
+        var currentURL = window.location.href;
+
+        // 제품 타이틀을 가져오는 부분
+        var productTitleElement = document.querySelector('p.prod_top');
+        var productTitle = productTitleElement ? productTitleElement.innerText : '';
+
+        // 제품 설명을 가져오는 부분
+        var productSummaryElement = document.querySelector('pre');
+        var productSummary = productSummaryElement ? productSummaryElement.innerText : '';
+
+        // 제품 이미지를 가져오는 부분
+        var productImageElement = document.querySelector('.swiper-slide img');
+        var productImageUrl = productImageElement ? productImageElement.getAttribute('src') : '';
+
+        Kakao.Link.sendDefault({
+            objectType: 'feed',
+            content: {
+                title: productTitle,
+                description: productSummary,
+                imageUrl: productImageUrl,
+                link: {
+                    mobileWebUrl: currentURL,
+                    webUrl: currentURL,
+                },
+            },
+            buttons: [
+                {
+                    title: '웹으로 보기',
+                    link: {
+                        mobileWebUrl: currentURL,
+                        webUrl: currentURL,
+                    },
+                },
+            ],
+            // 카카오톡 미설치 시 카카오톡 설치 경로이동
+            installTalk: true,
+        });
+    }
+
 
 
