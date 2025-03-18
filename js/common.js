@@ -101,9 +101,3 @@ if (document.querySelector("#wrap").classList.contains("main")) {
       });
     }
 
-    function chatChannel() {
-        Kakao.Channel.chat({
-          channelPublicId: '_Lxeqsn',
-        });
-    }
-

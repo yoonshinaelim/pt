@@ -29,6 +29,7 @@
     /* menu */
     .list_menu .list li a{font-size:7rem;}
     .ex_wrap .list_info{margin-left:5rem;}
+    .foot_wrap .btn_kakao{position:relative;margin-top:3.125rem;background-size:25px auto;display:block;}
 }
 @media all and (max-width: 640px){
     html, body {font-size:10px;transition:all .2s linear;}
@@ -48,7 +49,5 @@
 
     /* about */
     .title_box.ab .tit{font-size:3.5rem;line-height:5rem;}
-    /* contact */
-    /* .map{height:30rem;} */
-    .foot_wrap .btn_kakao{position:relative;margin-top:3.125rem;background-size:25px auto;}
+
 }
