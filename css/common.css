@@ -130,8 +130,10 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 
 .footer{background:#000;padding:4.375rem 0;}
 .foot_wrap{position:relative;width:85rem;margin:0 auto;}
+
 .foot_wrap .contact_list dt{color:#e3e3e3;font-size:1.25rem;font-family:'Noto Serif KR';margin-top:3.125rem;}
 .foot_wrap .contact_list dt:first-of-type{margin-top:0;}
 .foot_wrap .contact_list dd{color:#fff;font-size:2.5rem;}
+.foot_wrap .contact_list dd a{color:#fff;font-size:2.5rem;}
 .foot_wrap .btn_kakao{position:absolute;right:0;bottom:0;font-size:0;width:4rem;height:4rem;display:block;border:2px solid #fff;border-radius:50%;background:url(../img/contact/ico_kakao.png) no-repeat center;}
 
