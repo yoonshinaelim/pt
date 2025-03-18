@@ -1,9 +1,8 @@
 @media all and (max-width: 1360px){
     html, body {font-size:15px;transition:all .2s linear;}
     #container{overflow:hidden;}
-    .contents{width:100%;}
+    .contents{width:auto;padding:8rem 2rem;}
     .contents .list{width:100%;}
-
     /* about */
     .title_box.ab{position:fixed;top:0;left:0;background:url(../img/about/bg_about.jpg) center no-repeat;background-size:cover;}
     .title_box.ab .tit{font-size:5rem;line-height:8rem;}
@@ -20,24 +19,20 @@
     .section.box2{align-items:flex-start;}
     .br{display:inline;}
     /* contact */
-    .footer{padding:4.375rem;}
+    .contact_tit{font-size:5rem;padding:9.375rem 2rem 5rem;}
+    .footer{padding:8rem 2rem;}
     .foot_wrap{width:100%;}
 }
 @media all and (max-width: 960px){
     html, body {font-size:14px;transition:all .2s linear;}
-    .contents{width:auto;padding:8rem 2rem;}
     .contents .list li{width:50%;}
     /* menu */
     .list_menu .list li a{font-size:7rem;}
     .ex_wrap .list_info{margin-left:5rem;}
-    /* about */
-    
-    
 }
 @media all and (max-width: 640px){
     html, body {font-size:10px;transition:all .2s linear;}
 
-    .contact_tit{font-size:5rem;padding-left:2rem;}
     .contents .list li{width:100%;}
     /* menu */
     .list_menu .list li{padding:0 2.5rem;}

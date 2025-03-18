@@ -9,6 +9,10 @@
 <link rel="icon" href="img/main/favicon.ico" />
 <link rel="stylesheet" href="css/common.css" />
 <link rel="stylesheet" href="css/media.css" />
+<script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.4/kakao.min.js" integrity="sha384-DKYJZ8NLiK8MN4/C5P2dtSmLQ4KwPaoqAfyA/DfmEc1VDxu4yyC7wy6K1Hs90nka" crossorigin="anonymous"></script>
+<script>
+    Kakao.init('4aa0d79bad1f0847ad42cb875dab555e');
+</script>
 </head>
 <body id="body">
 <div id="wrap" class="contact">
@@ -31,7 +35,7 @@
                 <dt>email</dt>
                 <dd>ysal77@naver.com</dd>
             </dl>
-            <a href="javascript:shareMessage();" class="btn_kakao">카카오톡</a>
+            <a id="chat-channel-button" href="javascript:chatChannel()" class="btn_kakao">카카오톡</a>
         </div>
     </div>
 </div>
