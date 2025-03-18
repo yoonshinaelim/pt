@@ -2,22 +2,402 @@
 <work>
     <exp id="1">
         <number>1</number>
-        <entitle>SHINHANCARD 11</entitle>
-        <entext>web&amp;mobile management 111</entext>
-        <kotitle>신한카드 모바일 홈페이지 구축11</kotitle>
-        <kotext>1신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축</kotext>
-        <company>1M4A</company>
-        <period>1112024.07</period>
-        <url>111https://www.shinhancard.com</url>
+        <entitle>S sports</entitle>
+        <entext>web renewal ux design</entext>
+        <kotitle>S스포츠본사 웹 사이트 구축</kotitle>
+        <kotext>2014. 04. 23 ~ 2014. 05. 28</kotext>
+        <company>가나인트</company>
+        <period>2014.04</period>
+        <url>정보없음</url>
     </exp>
     <exp id="2">
         <number>2</number>
-        <entitle>SHINHANCARD 22</entitle>
-        <entext>web&amp;mobile management 22</entext>
-        <kotitle>삼성 모바일 홈페이지 구축22</kotitle>
-        <kotext>신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축신한카드 모바일 홈페이지 구축</kotext>
-        <company>M4A22</company>
-        <period>2024.0722</period>
-        <url>https://www.shinhancard.com</url>
+        <entitle>gangnam thesharp</entitle>
+        <entext>website development</entext>
+        <kotitle>강남더샵 웹 사이트 구축</kotitle>
+        <kotext>2014.05. 12 ~ 2014. 05. 27</kotext>
+        <company>가나인트</company>
+        <period>2014. 05</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="3">
+        <number>3</number>
+        <entitle>TAM holding</entitle>
+        <entext>website development</entext>
+        <kotitle>TAM홀딩스 웹 사이트 구축</kotitle>
+        <kotext>2014. 06. 10 ~ 2014. 06. 19</kotext>
+        <company>가나인트</company>
+        <period>2014.06</period>
+        <url>http://tamh.co.kr/main/</url>
+    </exp>
+    <exp id="4">
+        <number>4</number>
+        <entitle>tongin group</entitle>
+        <entext>website development</entext>
+        <kotitle>통인그룹 웹 사이트 구축</kotitle>
+        <kotext>2014. 06. 10 ~ 2014. 06. 19</kotext>
+        <company>가나인트</company>
+        <period>2014.06</period>
+        <url>http://tongin.co.kr</url>
+    </exp>
+    <exp id="5">
+        <number>5</number>
+        <entitle>gonggam design</entitle>
+        <entext>website development</entext>
+        <kotitle>공감디자인 웹 사이트 구축</kotitle>
+        <kotext>2014. 06. 11 ~ 2014. 08. 12</kotext>
+        <company>가나인트</company>
+        <period>2014.06</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="6">
+        <number>6</number>
+        <entitle>Kyunghee University</entitle>
+        <entext>website development</entext>
+        <kotitle>경희대학교 정신건강의학교실 및 경정회 웹 사이트 구축</kotitle>
+        <kotext>2014. 07. 02 ~ 2014. 07. 21</kotext>
+        <company>가나인트</company>
+        <period>2014.07</period>
+        <url>http://khmc.ganaint.co.kr/2016_1/</url>
+    </exp>
+    <exp id="7">
+        <number>7</number>
+        <entitle>fiberworld</entitle>
+        <entext>website development</entext>
+        <kotitle>파이버월드 쇼핑몰 웹 사이트 구축</kotitle>
+        <kotext>2014. 08. 04 ~ 2014. 11. 24</kotext>
+        <company>가나인트</company>
+        <period>2014.08</period>
+        <url>http://fiberworld.co.kr/</url>
+    </exp>
+    <exp id="8">
+        <number>8</number>
+        <entitle>myungdo law</entitle>
+        <entext>website development</entext>
+        <kotitle>서울명도소송변호사단 웹 사이트 구축</kotitle>
+        <kotext>2014. 08. 13 ~ 2014. 08. 30</kotext>
+        <company>가나인트</company>
+        <period>2014.08</period>
+        <url>http://myungdolaw.co.kr/</url>
+    </exp>
+    <exp id="9">
+        <number>9</number>
+        <entitle>prugio</entitle>
+        <entext>website development</entext>
+        <kotitle>위례중앙푸르지오 1·2단지 웹 사이트 구축</kotitle>
+        <kotext>2014. 08. 19 ~ 2014. 10. 24</kotext>
+        <company>가나인트</company>
+        <period>2014.08</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="10">
+        <number>10</number>
+        <entitle>prugio</entitle>
+        <entext>website development</entext>
+        <kotitle>마곡나루역 보타닉 푸르지오 시티 사이트 구축</kotitle>
+        <kotext>2014. 04. 23 ~ 2014. 05. 15</kotext>
+        <company>가나인트</company>
+        <period>2014.04</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="11">
+        <number>11</number>
+        <entitle>chehum</entitle>
+        <entext>website development</entext>
+        <kotitle>열린체험터 모바일 웹 사이트 구축</kotitle>
+        <kotext>2014. 09. 11 ~ 2014. 09. 19</kotext>
+        <company>가나인트</company>
+        <period>2014.09</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="12">
+        <number>12</number>
+        <entitle>adria law</entitle>
+        <entext>website development</entext>
+        <kotitle>제소전화해 웹 사이트 구축</kotitle>
+        <kotext>2014. 09. 19 ~ 2014. 10. 24</kotext>
+        <company>가나인트</company>
+        <period>2014.09</period>
+        <url>http://www.adrialaw.com/</url>
+    </exp>
+    <exp id="13">
+        <number>13</number>
+        <entitle>posod</entitle>
+        <entext>website development</entext>
+        <kotitle>POSOD 웹 사이트 구축</kotitle>
+        <kotext>2014. 10. 21 ~ 2014. 12. 01</kotext>
+        <company>가나인트</company>
+        <period>2014.10</period>
+        <url>http://posod.co.kr/</url>
+    </exp>
+    <exp id="14">
+        <number>14</number>
+        <entitle>samzine</entitle>
+        <entext>website development</entext>
+        <kotitle>삼진커뮤니케이션즈 웹 사이트 구축</kotitle>
+        <kotext>2014. 11. 03 ~ 2014. 12. 23</kotext>
+        <company>가나인트</company>
+        <period>2014.11</period>
+        <url>https://www.samzine.co.kr/</url>
+    </exp>
+    <exp id="15">
+        <number>15</number>
+        <entitle>starvocal</entitle>
+        <entext>website development</entext>
+        <kotitle>스타보컬 웹 사이트 구축</kotitle>
+        <kotext>2014. 11. 25 ~ 2014. 12. 26</kotext>
+        <company>가나인트</company>
+        <period>2014.11</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="15">
+        <number>15</number>
+        <entitle>starvocal</entitle>
+        <entext>website development</entext>
+        <kotitle>스타보컬 웹 사이트 구축</kotitle>
+        <kotext>2014. 11. 25 ~ 2014. 12. 26</kotext>
+        <company>가나인트</company>
+        <period>2014.11</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="16">
+        <number>16</number>
+        <entitle>nowsystems</entitle>
+        <entext>website development</entext>
+        <kotitle>㈜나우시스템즈 웹 사이트 구축</kotitle>
+        <kotext>2015. 01. 06 ~ 2015. 03. 05</kotext>
+        <company>가나인트</company>
+        <period>2015.01</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="17">
+        <number>17</number>
+        <entitle>ITRIP</entitle>
+        <entext>website development</entext>
+        <kotitle>ITRIP 웹 사이트 구축</kotitle>
+        <kotext>2015. 01. 12 ~ 2015. 01. 26</kotext>
+        <company>가나인트</company>
+        <period>2015.01</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="18">
+        <number>18</number>
+        <entitle>dosunglaw</entitle>
+        <entext>website development</entext>
+        <kotitle>법률사무소도성 웹 사이트 구축</kotitle>
+        <kotext>2015. 01. 20 ~ 2015. 06. 29</kotext>
+        <company>가나인트</company>
+        <period>2015. 01</period>
+        <url>http://dosunglaw.co.kr/</url>
+    </exp>
+    <exp id="19">
+        <number>19</number>
+        <entitle>rockets</entitle>
+        <entext>website development</entext>
+        <kotitle>일산로케트 쇼핑몰 웹 사이트 구축</kotitle>
+        <kotext>2015. 01. 23 ~ 2015. 03. 25</kotext>
+        <company>가나인트</company>
+        <period>2015.01</period>
+        <url>http://rockets.co.kr/</url>
+    </exp>
+    <exp id="20">
+        <number>20</number>
+        <entitle>burim</entitle>
+        <entext>website development</entext>
+        <kotitle>부림 모바일 웹 사이트 구축</kotitle>
+        <kotext>2015. 05. 20 ~ 2015. 06. 29</kotext>
+        <company>가나인트</company>
+        <period>2015.05</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="21">
+        <number>21</number>
+        <entitle>K Wedding</entitle>
+        <entext>website development</entext>
+        <kotitle>K Wedding 웹 사이트 구축</kotitle>
+        <kotext>2015. 06. 08 ~ 2015. 06. 29</kotext>
+        <company>가나인트</company>
+        <period>2015.06</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="22">
+        <number>22</number>
+        <entitle>K Wedding</entitle>
+        <entext>website development</entext>
+        <kotitle>독도코리아(주) 웹 사이트 구축</kotitle>
+        <kotext>2015. 07. 30 ~ 2015. 08. 01</kotext>
+        <company>가나인트</company>
+        <period>2015.07</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="23">
+        <number>23</number>
+        <entitle>ilseung education</entitle>
+        <entext>website development</entext>
+        <kotitle>일승에듀케이션 웹 사이트 구축</kotitle>
+        <kotext>2015. 08. 10 ~</kotext>
+        <company>가나인트</company>
+        <period>2015.08</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="24">
+        <number>24</number>
+        <entitle>mapalhiteco</entitle>
+        <entext>website development</entext>
+        <kotitle>마팔하이테코 웹, 모바일 웹 사이트 구축</kotitle>
+        <kotext>2015. 10. 05 ~ 2015. 12. 17</kotext>
+        <company>맑음</company>
+        <period>2015. 10</period>
+        <url>https://www.mapalhiteco.com/</url>
+    </exp>
+    <exp id="25">
+        <number>25</number>
+        <entitle>mapalhiteco</entitle>
+        <entext>web mobile development</entext>
+        <kotitle>마팔하이테코 웹, 모바일 웹 사이트 구축</kotitle>
+        <kotext>2015. 10. 05 ~ 2015. 12. 17</kotext>
+        <company>맑음</company>
+        <period>2015.10</period>
+        <url>https://www.mapalhiteco.com/</url>
+    </exp>
+    <exp id="26">
+        <number>26</number>
+        <entitle>lottepsnet</entitle>
+        <entext>website development</entext>
+        <kotitle>롯데피에스넷 웹 사이트 구축</kotitle>
+        <kotext>2015. 11. 04 ~ 2015. 12. 04</kotext>
+        <company>맑음</company>
+        <period>2015.11</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="27">
+        <number>27</number>
+        <entitle>ispark</entitle>
+        <entext>website development</entext>
+        <kotitle>이즈파크 반응형 웹 사이트 구축</kotitle>
+        <kotext>2015. 11. 10 ~ 2015. 12. 17</kotext>
+        <company>맑음</company>
+        <period>2015.11</period>
+        <url>http://ispark.kr</url>
+    </exp>
+    <exp id="28">
+        <number>28</number>
+        <entitle>sian</entitle>
+        <entext>website development</entext>
+        <kotitle>시안 웹 사이트 구축</kotitle>
+        <kotext>2015. 12. 19 ~ 2015. 12. 24</kotext>
+        <company>맑음</company>
+        <period>2015.12</period>
+        <url>https://www.sianchem.co.kr/</url>
+    </exp>
+    <exp id="29">
+        <number>29</number>
+        <entitle>robocarpoli</entitle>
+        <entext>website development</entext>
+        <kotitle>로이비주얼 웹 사이트 구축</kotitle>
+        <kotext>2016. 01. 06 ~ 2016. 04. 21</kotext>
+        <company>맑음</company>
+        <period>2016.01</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="30">
+        <number>30</number>
+        <entitle>median</entitle>
+        <entext>website development</entext>
+        <kotitle>메디안디노스틱 반응형 웹 사이트 구축</kotitle>
+        <kotext>2016. 01. 19 ~ 2016. 04. 26</kotext>
+        <company>맑음</company>
+        <period>2016.01</period>
+        <url>http://www.mediandiagnostics.com/</url>
+    </exp>
+    <exp id="31">
+        <number>31</number>
+        <entitle>Achigen Biotech</entitle>
+        <entext>website development</entext>
+        <kotitle>Achigen Biotech 반응형 웹사이트 구축</kotitle>
+        <kotext>2016. 04. 07 ~ 2016. 04. 26</kotext>
+        <company>맑음</company>
+        <period>2016.04</period>
+        <url>http://www.archigenbio.com/</url>
+    </exp>
+    <exp id="32">
+        <number>32</number>
+        <entitle>sungil</entitle>
+        <entext>website development</entext>
+        <kotitle>성일 웹사이트 구축</kotitle>
+        <kotext>2016. 04. 20 ~ 2016. 04. 26</kotext>
+        <company>맑음</company>
+        <period>2016.04</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="33">
+        <number>33</number>
+        <entitle>bandooptical</entitle>
+        <entext>web mobile development</entext>
+        <kotitle>반도옵티칼 쇼핑몰 모바일, 웹 사이트 구축</kotitle>
+        <kotext>2016. 03. 05 ~ 2016. 04. 26</kotext>
+        <company>맑음</company>
+        <period>2016.04</period>
+        <url>http://www.bandooptical.com/</url>
+    </exp>
+    <exp id="34">
+        <number>34</number>
+        <entitle>BC Card</entitle>
+        <entext>web app management</entext>
+        <kotitle>BC카드 모바일 구축</kotitle>
+        <kotext>2016. 08. 17 ~ 2016. 09. 13</kotext>
+        <company>M4A</company>
+        <period>2016.08</period>
+        <url>https://play.google.com/store/apps/details?id=com.bccard.bcsmartapp</url>
+    </exp>
+    <exp id="35">
+        <number>35</number>
+        <entitle>KDBi TV</entitle>
+        <entext>website management</entext>
+        <kotitle>KDBi TV 웹사이트 구축</kotitle>
+        <kotext>2016. 06. 21 ~ 2016. 07. 29</kotext>
+        <company>M4A</company>
+        <period>2016.06</period>
+        <url>http://www.kdbi.tv/</url>
+    </exp>
+    <exp id="36">
+        <number>36</number>
+        <entitle>shinhan card</entitle>
+        <entext>mobile renewal development</entext>
+        <kotitle>신한카드 모바일 웹 구축</kotitle>
+        <kotext>2016. 12. 19 ~ 2017. 03. 24</kotext>
+        <company>M4A</company>
+        <period>2016.12</period>
+        <url>https://play.google.com/store/apps/details?id=com.shinhancard.smartshinhan&amp;hl=ko</url>
+    </exp>
+    <exp id="37">
+        <number>37</number>
+        <entitle>M4A</entitle>
+        <entext>web mobile renewal development</entext>
+        <kotitle>M4A 웹 모바일 홈페이지 리뉴얼</kotitle>
+        <kotext>2017. 08. 07 ~ 2017. 08. 18</kotext>
+        <company>M4A</company>
+        <period>2017.08</period>
+        <url>http://www.m4a.co.kr</url>
+    </exp>
+    <exp id="38">
+        <number>38</number>
+        <entitle>standardchartered</entitle>
+        <entext>app development</entext>
+        <kotitle>SC제일은행 셀프뱅크 앱 구축</kotitle>
+        <kotext>2017. 08. 21 ~ 2018. 01. 31</kotext>
+        <company>M4A</company>
+        <period>2017.08</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="39">
+        <number>39</number>
+        <entitle>standardchartered</entitle>
+        <entext>pad development</entext>
+        <kotitle>SC제일은행 PPR 구축</kotitle>
+        <kotext>2017. 03. 20 ~ 2018. 04. 10</kotext>
+        <company>M4A</company>
+        <period>2017.03</period>
+        <url>정보없음</url>
     </exp>
 </work>

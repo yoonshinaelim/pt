@@ -41,15 +41,23 @@ function updatePage() {
         }
     } else {
         document.getElementById("entitle").innerText = "정보 없음";
-        document.getElementById("entext").innerText = "해당 ID의 정보를 찾을 수 없습니다.";
-        document.getElementById("kotitle").innerText = "";
-        document.getElementById("kotext").innerText = "";
-        document.getElementById("company").innerText = "";
-        document.getElementById("period").innerText = "";
-        document.getElementById("url").innerText = "";
+        document.getElementById("entext").innerText = "정보 없음";
+        document.getElementById("kotitle").innerText = "정보 없음";
+        document.getElementById("kotext").innerText = "정보 없음";
+        document.getElementById("company").innerText = "정보 없음";
+        document.getElementById("period").innerText = "정보 없음";
+        document.getElementById("url").innerText = "정보 없음";
     }
 }
-
+// url 링크
+function link(){
+    const linktxt = document.getElementById('url').innerText;
+    if(linktxt == "정보없음"){
+        return false;
+    }else{
+        window.open(linktxt);
+    }
+}
 // 뒤로 가기 기능
 function goBack() {
     window.history.back();

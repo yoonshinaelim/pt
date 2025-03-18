@@ -54,7 +54,7 @@ if (document.querySelector("#wrap").classList.contains("main")) {
         entitle = xmlDoc.getElementsByTagName('entitle');
         entext = xmlDoc.getElementsByTagName('entext');    
 
-        for(let i=0; i < number.length; i++){
+        for(let i=number.length-1; i >= 0; i--){
             num = number[i].childNodes[0].nodeValue;
             entit = entitle[i].childNodes[0].nodeValue;
             entxt = entext[i].childNodes[0].nodeValue;

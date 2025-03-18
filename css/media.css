@@ -3,6 +3,8 @@
     #container{overflow:hidden;}
     .contents{width:auto;padding:8rem 2rem;}
     .contents .list{width:100%;}
+    /* experience */
+    .ex_wrap .cell{padding: 0 2rem;}
     /* about */
     .title_box.ab{position:fixed;top:0;left:0;background:url(../img/about/bg_about.jpg) center no-repeat;background-size:cover;}
     .title_box.ab .tit{font-size:5rem;line-height:8rem;}
