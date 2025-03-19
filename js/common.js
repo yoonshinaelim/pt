@@ -11,25 +11,6 @@ if (document.querySelector("#wrap").classList.contains("main")) {
         menuList.classList.toggle("on");
         body.classList.toggle("hidden");
     });
-    //main list
-    function scrollRealStart(){
-        ScrollReveal().reveal("#mainList li", {reset:false, delay :10, distance: '50px', opacity:.5});
-    }
-    scrollRealStart();
-
-    //load scroll top 0
-    window.onbeforeunload = function(){
-        window.scrollTo(0, 0);
-        
-    };
-
-    //scroll event
-    window.addEventListener("scroll", function(){
-        let scrollY = this.scrollY;
-        if(scrollY == 0){
-            scrollRealStart();
-        }
-    });
     
     function goToDetail(id) {
         window.location.href = `experience.html?id=${id}`;
@@ -58,10 +39,32 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             num = number[i].childNodes[0].nodeValue;
             entit = entitle[i].childNodes[0].nodeValue;
             entxt = entext[i].childNodes[0].nodeValue;
-            document.getElementById('mainList').innerHTML += '<li id="listBtn"><a href="javascript:goToDetail('+ num +');" class="btn" style="background:#000 url(./img/experience/list/bg'+ num +'.jpg) no-repeat center;background-size:cover;"><span class="tit">'+ entit + '</span><span class="tit2">' + entxt +'</span></a></li>';
+            document.getElementById('mainList').innerHTML += '<li id="listBtn"><a href="javascript:goToDetail('+ num +');" class="btn" style="background:#fff url(./img/experience/list/bg'+ num +'.jpg) no-repeat center;background-size:cover;"><span class="tit">'+ entit + '</span><span class="tit2">' + entxt +'</span></a></li>';
         }
-        
+        //main list
+        function scrollRealStart(){
+            ScrollReveal().reveal("#mainList li", {delay :10, distance: '50px', opacity:.5});
+        }
+        scrollRealStart();
+        // load scroll top 0
+        window.onbeforeunload = function(){
+            window.scrollTo(0, 0);
+            scrollRealStart();
+        };
+
+        // scroll event
+        window.addEventListener("scroll", function(){
+            let scrollY = this.scrollY;
+            if(scrollY == 0){
+                scrollRealStart();
+            }
+        });
     }
+
+    
+        
+
+    
 }else if (document.querySelector("#wrap").classList.contains("about")) {
     //about
     gsap.registerPlugin(ScrollTrigger);

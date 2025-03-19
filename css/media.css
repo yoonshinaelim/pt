@@ -39,7 +39,7 @@
     .contents .list li{width:100%;}
     /* menu */
     .list_menu .list li{padding:0 2.5rem;}
-    .list_menu .list li a{font-size:4rem;} 
+    .list_menu .list li a{font-size:5.5rem;} 
     /* experience */
     .ex_wrap{flex-direction: column-reverse;}
     .ex_wrap .cell{margin-top:5rem;}
