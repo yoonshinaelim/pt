@@ -105,7 +105,7 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 .title_box.ex {position:relative;height:750px;}
 .title_box.ex .pos_box{position:absolute;top:50%;left:0;transform:translateY(-50%);text-align:center;text-align:center;width:100%;z-index:2;}
 .title_box.ex .tit1{font-size:6.25rem;color:#fff;line-height:8rem;}
-.title_box.ex .tit2{font-size:2.5rem;color:#fff;line-height:3rem;margin-top:2rem;}
+.title_box.ex .tit2{font-size:2.5rem;color:#fff;line-height:3rem;}
 .popup_wrap{position:fixed;top:0;left:0;width:100%;height:100%;z-index:10001;background:#fff;overflow:hidden;display:none;}
 .popup_box{overflow-y:scroll;width:100%;height:100%;}
 .ex_wrap{display:flex;}

@@ -150,16 +150,6 @@
         <period>2014.11</period>
         <url>정보없음</url>
     </exp>
-    <exp id="15">
-        <number>15</number>
-        <entitle>starvocal</entitle>
-        <entext>website development</entext>
-        <kotitle>스타보컬 웹 사이트 구축</kotitle>
-        <kotext>2014. 11. 25 ~ 2014. 12. 26</kotext>
-        <company>가나인트</company>
-        <period>2014.11</period>
-        <url>정보없음</url>
-    </exp>
     <exp id="16">
         <number>16</number>
         <entitle>nowsystems</entitle>
@@ -222,7 +212,7 @@
     </exp>
     <exp id="22">
         <number>22</number>
-        <entitle>K Wedding</entitle>
+        <entitle>dokdo</entitle>
         <entext>website development</entext>
         <kotitle>독도코리아(주) 웹 사이트 구축</kotitle>
         <kotext>2015. 07. 30 ~ 2015. 08. 01</kotext>
@@ -252,16 +242,6 @@
     </exp>
     <exp id="25">
         <number>25</number>
-        <entitle>mapalhiteco</entitle>
-        <entext>web mobile development</entext>
-        <kotitle>마팔하이테코 웹, 모바일 웹 사이트 구축</kotitle>
-        <kotext>2015. 10. 05 ~ 2015. 12. 17</kotext>
-        <company>맑음</company>
-        <period>2015.10</period>
-        <url>https://www.mapalhiteco.com/</url>
-    </exp>
-    <exp id="26">
-        <number>26</number>
         <entitle>lottepsnet</entitle>
         <entext>website development</entext>
         <kotitle>롯데피에스넷 웹 사이트 구축</kotitle>
@@ -270,8 +250,8 @@
         <period>2015.11</period>
         <url>정보없음</url>
     </exp>
-    <exp id="27">
-        <number>27</number>
+    <exp id="26">
+        <number>26</number>
         <entitle>ispark</entitle>
         <entext>website development</entext>
         <kotitle>이즈파크 반응형 웹 사이트 구축</kotitle>
@@ -280,8 +260,8 @@
         <period>2015.11</period>
         <url>http://ispark.kr</url>
     </exp>
-    <exp id="28">
-        <number>28</number>
+    <exp id="27">
+        <number>27</number>
         <entitle>sian</entitle>
         <entext>website development</entext>
         <kotitle>시안 웹 사이트 구축</kotitle>
@@ -290,8 +270,8 @@
         <period>2015.12</period>
         <url>https://www.sianchem.co.kr/</url>
     </exp>
-    <exp id="29">
-        <number>29</number>
+    <exp id="28">
+        <number>28</number>
         <entitle>robocarpoli</entitle>
         <entext>website development</entext>
         <kotitle>로이비주얼 웹 사이트 구축</kotitle>
@@ -300,8 +280,8 @@
         <period>2016.01</period>
         <url>정보없음</url>
     </exp>
-    <exp id="30">
-        <number>30</number>
+    <exp id="29">
+        <number>29</number>
         <entitle>median</entitle>
         <entext>website development</entext>
         <kotitle>메디안디노스틱 반응형 웹 사이트 구축</kotitle>
@@ -310,8 +290,8 @@
         <period>2016.01</period>
         <url>http://www.mediandiagnostics.com/</url>
     </exp>
-    <exp id="31">
-        <number>31</number>
+    <exp id="30">
+        <number>30</number>
         <entitle>Achigen Biotech</entitle>
         <entext>website development</entext>
         <kotitle>Achigen Biotech 반응형 웹사이트 구축</kotitle>
@@ -320,8 +300,8 @@
         <period>2016.04</period>
         <url>http://www.archigenbio.com/</url>
     </exp>
-    <exp id="32">
-        <number>32</number>
+    <exp id="31">
+        <number>31</number>
         <entitle>sungil</entitle>
         <entext>website development</entext>
         <kotitle>성일 웹사이트 구축</kotitle>
@@ -330,8 +310,8 @@
         <period>2016.04</period>
         <url>정보없음</url>
     </exp>
-    <exp id="33">
-        <number>33</number>
+    <exp id="32">
+        <number>32</number>
         <entitle>bandooptical</entitle>
         <entext>web mobile development</entext>
         <kotitle>반도옵티칼 쇼핑몰 모바일, 웹 사이트 구축</kotitle>
@@ -340,8 +320,8 @@
         <period>2016.04</period>
         <url>http://www.bandooptical.com/</url>
     </exp>
-    <exp id="34">
-        <number>34</number>
+    <exp id="33">
+        <number>33</number>
         <entitle>BC Card</entitle>
         <entext>web app management</entext>
         <kotitle>BC카드 모바일 구축</kotitle>
@@ -350,18 +330,8 @@
         <period>2016.08</period>
         <url>https://play.google.com/store/apps/details?id=com.bccard.bcsmartapp</url>
     </exp>
-    <exp id="35">
-        <number>35</number>
-        <entitle>KDBi TV</entitle>
-        <entext>website management</entext>
-        <kotitle>KDBi TV 웹사이트 구축</kotitle>
-        <kotext>2016. 06. 21 ~ 2016. 07. 29</kotext>
-        <company>M4A</company>
-        <period>2016.06</period>
-        <url>http://www.kdbi.tv/</url>
-    </exp>
-    <exp id="36">
-        <number>36</number>
+    <exp id="34">
+        <number>34</number>
         <entitle>shinhan card</entitle>
         <entext>mobile renewal development</entext>
         <kotitle>신한카드 모바일 웹 구축</kotitle>
@@ -370,8 +340,8 @@
         <period>2016.12</period>
         <url>https://play.google.com/store/apps/details?id=com.shinhancard.smartshinhan&amp;hl=ko</url>
     </exp>
-    <exp id="37">
-        <number>37</number>
+    <exp id="35">
+        <number>35</number>
         <entitle>M4A</entitle>
         <entext>web mobile renewal development</entext>
         <kotitle>M4A 웹 모바일 홈페이지 리뉴얼</kotitle>
@@ -380,9 +350,9 @@
         <period>2017.08</period>
         <url>http://www.m4a.co.kr</url>
     </exp>
-    <exp id="38">
-        <number>38</number>
-        <entitle>standardchartered</entitle>
+    <exp id="36">
+        <number>36</number>
+        <entitle>standard chartered</entitle>
         <entext>app development</entext>
         <kotitle>SC제일은행 셀프뱅크 앱 구축</kotitle>
         <kotext>2017. 08. 21 ~ 2018. 01. 31</kotext>
@@ -390,14 +360,85 @@
         <period>2017.08</period>
         <url>정보없음</url>
     </exp>
-    <exp id="39">
-        <number>39</number>
-        <entitle>standardchartered</entitle>
+    <exp id="37">
+        <number>37</number>
+        <entitle>standard chartered</entitle>
         <entext>pad development</entext>
         <kotitle>SC제일은행 PPR 구축</kotitle>
-        <kotext>2017. 03. 20 ~ 2018. 04. 10</kotext>
+        <kotext>2017.03. 20 ~ 2018. 04. 10</kotext>
         <company>M4A</company>
         <period>2017.03</period>
         <url>정보없음</url>
     </exp>
+    <exp id="38">
+        <number>38</number>
+        <entitle>samsung SDS</entitle>
+        <entext>internal system development</entext>
+        <kotitle>삼성SDS 내부시스템 구축</kotitle>
+        <kotext>2018.04.17~ 2018.10.31 삼성SDS 내부시스템 오픈</kotext>
+        <company>M4A</company>
+        <period>2018.04</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="39">
+        <number>39</number>
+        <entitle>shinhan</entitle>
+        <entext>web app management</entext>
+        <kotitle>신한판클럽 운영</kotitle>
+        <kotext>2018.04.17~ 2018.10.31 이벤트 페이지 퍼블리싱(html, css, jquery)</kotext>
+        <company>M4A</company>
+        <period>2018.04</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="40">
+        <number>40</number>
+        <entitle>shinhan</entitle>
+        <entext>web app development</entext>
+        <kotitle>신한카드 디지털DIY</kotitle>
+        <kotext>2019.03.11 ~ 2019.03.22 반응형 레이아웃 작업(html, css, jquery)</kotext>
+        <company>M4A</company>
+        <period>2019.03</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="41">
+        <number>41</number>
+        <entitle>lottecard</entitle>
+        <entext>web app management</entext>
+        <kotitle>롯데카드 홈페이지, 모바일 운영</kotitle>
+        <kotext>2019. 04 ~ 2019. 08 (Git, JIRA)</kotext>
+        <company>씨앤엠소프트</company>
+        <period>2019.04</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="42">
+        <number>42</number>
+        <entitle>hundaecard</entitle>
+        <entext>web app management</entext>
+        <kotitle>현대카드 인증방식표준화 구축</kotitle>
+        <kotext>2019. 09 ~ 2019. 12 Sketch로 작업진행)</kotext>
+        <company>에프아이엔</company>
+        <period>2019.09</period>
+        <url>정보없음</url>
+    </exp>
+    <exp id="43">
+        <number>43</number>
+        <entitle>standardchartered</entitle>
+        <entext>web app management</entext>
+        <kotitle>SC제일은행 홈페이지(반응형), 모바일뱅킹 앱, mobility platform 앱, PPR 앱 운영</kotitle>
+        <kotext>2020. 01 ~ 2020. 12</kotext>
+        <company>SC제일은행</company>
+        <period>2020. 01</period>
+        <url>https://www.standardchartered.co.kr/</url>
+    </exp>
+    <exp id="44">
+        <number>44</number>
+        <entitle>KB bank</entitle>
+        <entext>web app development</entext>
+        <kotitle>국민은행 개인뱅킹, 기업뱅킹, 기업앱 구축</kotitle>
+        <kotext>2021. 01 ~ 2021. 06</kotext>
+        <company>M4A</company>
+        <period>2021. 01</period>
+        <url>https://www.standardchartered.co.kr/</url>
+    </exp>
+    
 </work>

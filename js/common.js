@@ -43,22 +43,21 @@ if (document.querySelector("#wrap").classList.contains("main")) {
         }
         //main list
         function scrollRealStart(){
-            ScrollReveal().reveal("#mainList li", {delay :10, distance: '50px', opacity:.5});
+            ScrollReveal().reveal("#mainList li", {mobile: false, distance: '30px', opacity:.5});
         }
         scrollRealStart();
         // load scroll top 0
-        window.onbeforeunload = function(){
-            window.scrollTo(0, 0);
-            scrollRealStart();
-        };
+        // window.onbeforeunload = function(){
+        //     window.scrollTo(0, 0);
+        // };
 
         // scroll event
-        window.addEventListener("scroll", function(){
-            let scrollY = this.scrollY;
-            if(scrollY == 0){
-                scrollRealStart();
-            }
-        });
+        // window.addEventListener("scroll", function(){
+        //     let scrollY = this.scrollY;
+        //     if(scrollY == 0){
+        //         scrollRealStart();
+        //     }
+        // });
     }
 
     

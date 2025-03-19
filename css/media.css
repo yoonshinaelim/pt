@@ -4,7 +4,6 @@
     .contents{width:auto;padding:8rem 2rem;}
     .contents .list{width:100%;}
     /* experience */
-    .ex_wrap .cell{padding: 0 2rem;}
     /* about */
     .title_box.ab{position:fixed;top:0;left:0;background:url(../img/about/bg_about.jpg) center no-repeat;background-size:cover;}
     .title_box.ab .tit{font-size:5rem;line-height:8rem;}
@@ -47,7 +46,7 @@
     .ex_wrap .list_info{margin-left:0;}
 
     .title_box.ex{height:450px;background-size:auto 100%;}
-    .title_box.ex .tit1{font-size:4rem;}
+    .title_box.ex .tit1{font-size:4rem;line-height:5rem;}
 
     /* about */
     .title_box.ab .tit{font-size:3.5rem;line-height:5rem;}
