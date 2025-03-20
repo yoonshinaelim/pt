@@ -50,7 +50,7 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 .contents{width:85rem;padding:9.375rem 0;margin:0 auto;}
 .contents .list{display:flex;flex-wrap:wrap; margin:0 auto;border-radius:0.5rem;}
 .contents .list li{width:33.33%;}
-.contents .list li .btn{position:relative;display:block;height:37.5rem;margin:1rem;color:#fff;border-radius:3.125rem;overflow:hidden;}
+.contents .list li .btn{position:relative;display:block;height:40rem;margin:1rem;color:#fff;border-radius:3.125rem;overflow:hidden;}
 .contents .list li .btn .tit{position:absolute;color:#fff;font-size:1.5rem;padding:2.5rem 2.5rem 0;left:0;top:0;z-index:1;}
 .contents .list li .btn .tit2{position:absolute;color:#fff;font-size:2.5rem;bottom:2.5rem;left:0;padding:0 2.5rem;text-align:left;line-height:3rem;z-index:1;}
 
