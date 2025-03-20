@@ -475,7 +475,7 @@
         스케치로 디자인 전달을 받아 SASS를 이용하여 작업 진행을 하였습니다.</kotext>
         <company>에프아이엔</company>
         <period>2019.09</period>
-        <url>https://play.google.com/store/apps/details?id=com.hyundaicard.appcard&hl=ko</url>
+        <url>https://play.google.com/store/apps/details?id=com.hyundaicard.appcard&amp;hl=ko</url>
     </exp>
     <exp id="43">
         <number>43</number>

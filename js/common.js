@@ -57,9 +57,6 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             window.scrollTo(0, 0);
             scrollStart();
         };
-
-
-        
     }
 
     
