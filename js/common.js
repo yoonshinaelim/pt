@@ -43,15 +43,23 @@ if (document.querySelector("#wrap").classList.contains("main")) {
         }
         //main list
         function scrollStart(){
-            ScrollReveal().reveal("#mainList li", {mobile: false, distance: '50px', origin: 'bottom', opacity:.5});
+            ScrollReveal().reveal("#mainList li", {
+            mobile: false,
+            duration: 300,
+            easing: 'ease-in-out',
+            distance: '50px', 
+            opacity:.5
+            });
         }
         scrollStart();
-
         // load scroll top 0
         window.onbeforeunload = function(){
             window.scrollTo(0, 0);
             scrollStart();
         };
+
+
+        
     }
 
     
