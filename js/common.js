@@ -42,7 +42,16 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             document.getElementById('mainList').innerHTML += '<li id="listBtn"><a href="javascript:goToDetail('+ num +');" class="btn" style="background:#fff url(./img/experience/list/bg'+ num +'.jpg) no-repeat center;background-size:cover;"><span class="tit">'+ entit + '</span><span class="tit2">' + entxt +'</span></a></li>';
         }
         //main list
-        ScrollReveal().reveal("#mainList li", {mobile: false, distance: '50px', origin: 'bottom', opacity:.5});
+        function scrollStart(){
+            ScrollReveal().reveal("#mainList li", {mobile: false, distance: '50px', origin: 'bottom', opacity:.5});
+        }
+        scrollStart();
+
+        // load scroll top 0
+        window.onbeforeunload = function(){
+            window.scrollTo(0, 0);
+            scrollStart();
+        };
     }
 
     
