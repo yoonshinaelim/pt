@@ -44,11 +44,11 @@ if (document.querySelector("#wrap").classList.contains("main")) {
         //main list
         function scrollStart(){
             ScrollReveal().reveal("#mainList li", {
-            mobile: false,
-            duration: 300,
-            easing: 'ease-in-out',
-            distance: '50px', 
-            opacity:.5
+                mobile: false,
+                duration: 300,
+                easing: 'ease-in-out',
+                distance: '50px', 
+                opacity:.5
             });
         }
         scrollStart();
