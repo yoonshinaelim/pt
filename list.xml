@@ -2,22 +2,25 @@
 <work>
     <exp id="1">
         <number>1</number>
-        <entitle>s sports</entitle>
-        <entext>web renewal ux design</entext>
+        <entitle>S SPORTS</entitle>
+        <entext>web renewal</entext>
         <kotitle>S스포츠본사 웹 사이트 구축</kotitle>
-        <kotext>2014. 04. 23 ~ 2014. 05. 28</kotext>
+        <kotext>2014년 4월 가나인트 웹에이전시에 웹퍼블리셔로 입사하여 처음으로 구축한 사이트입니다.
+        가나인트 회사는 대표 1명, 디자이너 1명, 개발자 1명, 퍼블리셔1명으로 구성된 회사로 가나인트에서 진행한 프로젝트는 대부분 퍼블리싱 참여율 100% 입니다.
+        2014년 04월 23일부터 2014년 05월 28일까지 스포츠 업체인 S스포츠 본사 웹 사이트를 제작하였고  오픈 이 후 S스포츠 본사 사이트는 현재 폐쇄되었습니다.</kotext>
         <company>가나인트</company>
         <period>2014.04</period>
         <url>정보없음</url>
     </exp>
     <exp id="2">
         <number>2</number>
-        <entitle>gangnam thesharp</entitle>
+        <entitle>GANGNAM THESHARP</entitle>
         <entext>website development</entext>
         <kotitle>강남더샵 웹 사이트 구축</kotitle>
-        <kotext>2014.05. 12 ~ 2014. 05. 27</kotext>
+        <kotext>2014년 05월 12일부터 2014년 05월 27일까지 청약을 신청하는 강남더샵 홈페이지를 구축하는 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재는 청약이 끝나 홈페이지는 폐쇄되었습니다.</kotext>
         <company>가나인트</company>
-        <period>2014. 05</period>
+        <period>2014.05</period>
         <url>정보없음</url>
     </exp>
     <exp id="3">
@@ -25,27 +28,31 @@
         <entitle>TAM holding</entitle>
         <entext>website development</entext>
         <kotitle>TAM홀딩스 웹 사이트 구축</kotitle>
-        <kotext>2014. 06. 10 ~ 2014. 06. 19</kotext>
+        <kotext>2014년 06월 10일부터 2014년 06월 19일까지 연말정산 업무대행 업체인 TAM홀딩스 프로젝트 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.06</period>
         <url>http://tamh.co.kr/main/</url>
     </exp>
     <exp id="4">
         <number>4</number>
-        <entitle>tongin group</entitle>
-        <entext>website development</entext>
-        <kotitle>통인그룹 웹 사이트 구축</kotitle>
-        <kotext>2014. 06. 10 ~ 2014. 06. 19</kotext>
+        <entitle>TONGIN GROUP</entitle>
+        <entext>web mobile development</entext>
+        <kotitle>통인그룹 웹, 모바일 사이트 구축</kotitle>
+        <kotext>2014년 06월 10일부터 2014년 10월 31일까지 포장이사 업체인 통인그룹 웹, 모바일 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, CSS Meida Query, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.
+        제작기간도 길고 모바일 웹을 처음으로 진행했기 때문에 당시 회사에 있던 테스트폰으로 테스트하면서 제작했던 경험이 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.06</period>
         <url>정보없음</url>
     </exp>
     <exp id="5">
         <number>5</number>
-        <entitle>gonggam design</entitle>
+        <entitle>GONGGAM design</entitle>
         <entext>website development</entext>
         <kotitle>공감디자인 웹 사이트 구축</kotitle>
-        <kotext>2014. 06. 11 ~ 2014. 08. 12</kotext>
+        <kotext>2014년 06월 11일부터 2014년 08월 12일까지 인테리어 업체인 공감디자인 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, CSS Meida Query, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2014.06</period>
         <url>정보없음</url>
@@ -55,7 +62,8 @@
         <entitle>Kyunghee University</entitle>
         <entext>website development</entext>
         <kotitle>경희대학교 정신건강의학교실 및 경정회 웹 사이트 구축</kotitle>
-        <kotext>2014. 07. 02 ~ 2014. 07. 21</kotext>
+        <kotext>2014년 07월 02일부터 2014년 07월 21일까지 경희대학교 정신건강의학교실 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, CSS Meida Query, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.07</period>
         <url>http://khmc.ganaint.co.kr/2016_1/</url>
@@ -65,7 +73,8 @@
         <entitle>fiberworld</entitle>
         <entext>website development</entext>
         <kotitle>파이버월드 쇼핑몰 웹 사이트 구축</kotitle>
-        <kotext>2014. 08. 04 ~ 2014. 11. 24</kotext>
+        <kotext>2014년 08월 04일부터 2014년 11월 24일까지 파이버월드 쇼핑몰 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.08</period>
         <url>http://fiberworld.co.kr/</url>
@@ -75,27 +84,30 @@
         <entitle>myungdo law</entitle>
         <entext>website development</entext>
         <kotitle>서울명도소송변호사단 웹 사이트 구축</kotitle>
-        <kotext>2014. 08. 13 ~ 2014. 08. 30</kotext>
+        <kotext>2014년 08월 13일부터 2014년 08월 30일까지 서울명도소송변호사단 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.08</period>
         <url>http://myungdolaw.co.kr/</url>
     </exp>
     <exp id="9">
         <number>9</number>
-        <entitle>prugio</entitle>
+        <entitle>PURUGIO</entitle>
         <entext>website development</entext>
         <kotitle>위례중앙푸르지오 1·2단지 웹 사이트 구축</kotitle>
-        <kotext>2014. 08. 19 ~ 2014. 10. 24</kotext>
+        <kotext>2014년 08월 19일부터 2014년 10월 24일까지 위례중앙푸르지오 1·2단지 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재는 청약이 끝나 홈페이지는 폐쇄되었습니다.</kotext>
         <company>가나인트</company>
         <period>2014.08</period>
         <url>정보없음</url>
     </exp>
     <exp id="10">
         <number>10</number>
-        <entitle>prugio</entitle>
+        <entitle>PURUGIO</entitle>
         <entext>website development</entext>
         <kotitle>마곡나루역 보타닉 푸르지오 시티 사이트 구축</kotitle>
-        <kotext>2014. 04. 23 ~ 2014. 05. 15</kotext>
+        <kotext>2014년 04월 23일부터 2014년 05월 15일까지 마곡나루역 보타닉 푸르지오 시티 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재는 청약이 끝나 홈페이지는 폐쇄되었습니다.</kotext>
         <company>가나인트</company>
         <period>2014.04</period>
         <url>정보없음</url>
@@ -105,7 +117,8 @@
         <entitle>chehum</entitle>
         <entext>mobile web ux design</entext>
         <kotitle>열린체험터 모바일 웹 사이트 구축</kotitle>
-        <kotext>2014. 09. 11 ~ 2014. 09. 19</kotext>
+        <kotext>2014년 09월 11일부터 2014년 09월 19일까지 열린체험터 모바일 웹 사이트 구축 프로젝트에 참여하였습니다.
+        모바일 디자인에 참여하면서 HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.09</period>
         <url>https://www.chehum.net/m/</url>
@@ -115,7 +128,8 @@
         <entitle>adria law</entitle>
         <entext>website development</entext>
         <kotitle>제소전화해 웹 사이트 구축</kotitle>
-        <kotext>2014. 09. 19 ~ 2014. 10. 24</kotext>
+        <kotext>2014년 09월 19일부터 2014년 10월 24일까지 제소전화해 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
         <period>2014.09</period>
         <url>http://www.adrialaw.com/</url>
@@ -125,27 +139,30 @@
         <entitle>posod</entitle>
         <entext>website development</entext>
         <kotitle>POSOD 웹 사이트 구축</kotitle>
-        <kotext>2014. 10. 21 ~ 2014. 12. 01</kotext>
+        <kotext>2014년 10월 21일부터 2014년 12월 01일까지 POSOD 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2014.10</period>
-        <url>http://posod.co.kr/</url>
+        <url>정보없음</url>
     </exp>
     <exp id="14">
         <number>14</number>
         <entitle>samzine</entitle>
         <entext>website development</entext>
         <kotitle>삼진커뮤니케이션즈 웹 사이트 구축</kotitle>
-        <kotext>2014. 11. 03 ~ 2014. 12. 23</kotext>
+        <kotext>2014년 11월 03일부터 2014년 12월 23일까지 삼진커뮤니케이션즈 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2014.11</period>
-        <url>https://www.samzine.co.kr/</url>
+        <url>정보없음</url>
     </exp>
     <exp id="15">
         <number>15</number>
         <entitle>starvocal</entitle>
         <entext>website development</entext>
         <kotitle>스타보컬 웹 사이트 구축</kotitle>
-        <kotext>2014. 11. 25 ~ 2014. 12. 26</kotext>
+        <kotext>2014년 11월 25일부터 2014년 12월 26일까지 스타보컬 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2014.11</period>
         <url>정보없음</url>
@@ -155,7 +172,8 @@
         <entitle>nowsystems</entitle>
         <entext>website development</entext>
         <kotitle>㈜나우시스템즈 웹 사이트 구축</kotitle>
-        <kotext>2015. 01. 06 ~ 2015. 03. 05</kotext>
+        <kotext>2015년 01월 06일부터 2015년 03월 05일까지 ㈜나우시스템즈 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.01</period>
         <url>정보없음</url>
@@ -165,37 +183,41 @@
         <entitle>ITRIP</entitle>
         <entext>website development</entext>
         <kotitle>ITRIP 웹 사이트 구축</kotitle>
-        <kotext>2015. 01. 12 ~ 2015. 01. 26</kotext>
+        <kotext>2015년 01월 12일부터 2015년 01월 26일까지 내비게이션 업체인 ITRIP 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.01</period>
         <url>정보없음</url>
     </exp>
     <exp id="18">
         <number>18</number>
-        <entitle>dosunglaw</entitle>
+        <entitle>dosung law</entitle>
         <entext>website development</entext>
         <kotitle>법률사무소도성 웹 사이트 구축</kotitle>
-        <kotext>2015. 01. 20 ~ 2015. 06. 29</kotext>
+        <kotext>2015년 01월 20일부터 2015년 06월 29일까지 법률사무소도성 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>가나인트</company>
-        <period>2015. 01</period>
+        <period>2015.01</period>
         <url>http://dosunglaw.co.kr/</url>
     </exp>
     <exp id="19">
         <number>19</number>
-        <entitle>rockets</entitle>
+        <entitle>ILSAN ROCKETS</entitle>
         <entext>website development</entext>
         <kotitle>일산로케트 쇼핑몰 웹 사이트 구축</kotitle>
-        <kotext>2015. 01. 23 ~ 2015. 03. 25</kotext>
+        <kotext>2015년 01월 23일부터 2015년 03월 25일까지 프리미엄 자동차용품 전문 업체인 일산로케트 쇼핑몰 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.01</period>
-        <url>http://rockets.co.kr/</url>
+        <url>정보없음</url>
     </exp>
     <exp id="20">
         <number>20</number>
-        <entitle>burim</entitle>
-        <entext>website development</entext>
+        <entitle>BURIM</entitle>
+        <entext>mobile web development</entext>
         <kotitle>부림 모바일 웹 사이트 구축</kotitle>
-        <kotext>2015. 05. 20 ~ 2015. 06. 29</kotext>
+        <kotext>2015년 05월 20일부터 2015년 06월 29일까지 네트워크 전송장비 업체인 부림 모바일 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.05</period>
         <url>정보없음</url>
@@ -205,7 +227,8 @@
         <entitle>K Wedding</entitle>
         <entext>website development</entext>
         <kotitle>K Wedding 웹 사이트 구축</kotitle>
-        <kotext>2015. 06. 08 ~ 2015. 06. 29</kotext>
+        <kotext>2015년 06월 08일부터 2015년 06월 29일까지 웨딩 업체인 K Wedding 웹 사이트 구축 프로젝트에 참여하였습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.06</period>
         <url>정보없음</url>
@@ -214,8 +237,9 @@
         <number>22</number>
         <entitle>dokdo</entitle>
         <entext>website development</entext>
-        <kotitle>독도코리아(주) 웹 사이트 구축</kotitle>
-        <kotext>2015. 07. 30 ~ 2015. 08. 01</kotext>
+        <kotitle>독도코리아㈜ 웹 사이트 구축</kotitle>
+        <kotext>2015년 07월 30일부터 2015년 08월 01일까지 탄약 생산 업체인 독도코리아㈜ 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.07</period>
         <url>정보없음</url>
@@ -225,7 +249,9 @@
         <entitle>ilseung education</entitle>
         <entext>website development</entext>
         <kotitle>일승에듀케이션 웹 사이트 구축</kotitle>
-        <kotext>2015. 08. 10 ~</kotext>
+        <kotext>2015년 08월 10일부터 교육 관련 업체인 일승에듀케이션 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.
+        이 프로젝트를 끝으로 저는 개인적인 업무 스킬과 능력을 더 발전시키기 위해 가나인트 웹에이전시에서 퇴사를 결정하였습니다.</kotext>
         <company>가나인트</company>
         <period>2015.08</period>
         <url>정보없음</url>
@@ -233,11 +259,14 @@
     <exp id="24">
         <number>24</number>
         <entitle>mapalhiteco</entitle>
-        <entext>website development</entext>
+        <entext>web mobile development</entext>
         <kotitle>마팔하이테코 웹, 모바일 웹 사이트 구축</kotitle>
-        <kotext>2015. 10. 05 ~ 2015. 12. 17</kotext>
+        <kotext>맑음 웹에이전시에 입사하였고 퍼블리셔 2명이었기 때문에 맑음에서 참여한 프로젝트 역시 참여율 100% 입니다.
+        2015년 10월 05일부터 2015년 12월 17일까지 공구 생산 업체인 마팔하이테코 웹, 모바일 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.
+        </kotext>
         <company>맑음</company>
-        <period>2015. 10</period>
+        <period>2015.10</period>
         <url>https://www.mapalhiteco.com/</url>
     </exp>
     <exp id="25">
@@ -245,7 +274,8 @@
         <entitle>lottepsnet</entitle>
         <entext>website development</entext>
         <kotitle>롯데피에스넷 웹 사이트 구축</kotitle>
-        <kotext>2015. 11. 04 ~ 2015. 12. 04</kotext>
+        <kotext>2015년 11월 04일부터 2015년 12월 04일까지 롯데피에스넷 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 폐쇄된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2015.11</period>
         <url>정보없음</url>
@@ -253,29 +283,32 @@
     <exp id="26">
         <number>26</number>
         <entitle>ispark</entitle>
-        <entext>website development</entext>
+        <entext>responsive web development</entext>
         <kotitle>이즈파크 반응형 웹 사이트 구축</kotitle>
-        <kotext>2015. 11. 10 ~ 2015. 12. 17</kotext>
+        <kotext>2015년 11월 10일부터 2015년 12월 17일까지 융합 콘텐츠 제작 전문 기업인 이즈파크 반응형 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, CSS Media Query, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.</kotext>
         <company>맑음</company>
         <period>2015.11</period>
-        <url>http://ispark.kr</url>
+        <url>https://ispark.kr/</url>
     </exp>
     <exp id="27">
         <number>27</number>
         <entitle>sian</entitle>
         <entext>website development</entext>
         <kotitle>시안 웹 사이트 구축</kotitle>
-        <kotext>2015. 12. 19 ~ 2015. 12. 24</kotext>
+        <kotext>2015년 12월 19일부터 2015년 12월 24일까지 창호 생산 업체인 시안 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2015.12</period>
-        <url>https://www.sianchem.co.kr/</url>
+        <url>정보없음</url>
     </exp>
     <exp id="28">
         <number>28</number>
         <entitle>robocarpoli</entitle>
         <entext>website development</entext>
         <kotitle>로이비주얼 웹 사이트 구축</kotitle>
-        <kotext>2016. 01. 06 ~ 2016. 04. 21</kotext>
+        <kotext>2016년 01월 06일부터 2016년 04월 21일까지 로이비주얼 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2016.01</period>
         <url>정보없음</url>
@@ -285,17 +318,19 @@
         <entitle>median</entitle>
         <entext>website development</entext>
         <kotitle>메디안디노스틱 반응형 웹 사이트 구축</kotitle>
-        <kotext>2016. 01. 19 ~ 2016. 04. 26</kotext>
+        <kotext>2016년 01월 19일부터 2016년 04월 26일까지 메디안디노스틱 반응형 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2016.01</period>
-        <url>http://www.mediandiagnostics.com/</url>
+        <url>정보없음</url>
     </exp>
     <exp id="30">
         <number>30</number>
         <entitle>Achigen Biotech</entitle>
         <entext>website development</entext>
         <kotitle>Achigen Biotech 반응형 웹사이트 구축</kotitle>
-        <kotext>2016. 04. 07 ~ 2016. 04. 26</kotext>
+        <kotext>2016년 04월 07일부터 2016년 04월 26일까지 Achigen Biotech 반응형 웹사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2016.04</period>
         <url>http://www.archigenbio.com/</url>
@@ -305,7 +340,8 @@
         <entitle>sungil</entitle>
         <entext>website development</entext>
         <kotitle>성일 웹사이트 구축</kotitle>
-        <kotext>2016. 04. 20 ~ 2016. 04. 26</kotext>
+        <kotext>2016년 04월 20일부터 2016년 04월 26일까지 성일 웹사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 이 후 리뉴얼이 진행된 것으로 확인하였습니다.</kotext>
         <company>맑음</company>
         <period>2016.04</period>
         <url>정보없음</url>
@@ -315,7 +351,9 @@
         <entitle>bandooptical</entitle>
         <entext>web mobile development</entext>
         <kotitle>반도옵티칼 쇼핑몰 모바일, 웹 사이트 구축</kotitle>
-        <kotext>2016. 03. 05 ~ 2016. 04. 26</kotext>
+        <kotext>2016년 03월 05일까지 2016년 04월 26일까지 반도옵티칼 쇼핑몰 모바일, 웹 사이트 구축 프로젝트에 참여했습니다.
+        HTML, CSS, JQuery를 이용하여 사이트를 제작하였고, 오픈 이 후 현재까지 운영되고 있습니다.
+        이 프로젝트를 마지막으로 맑음 웹에이전시의 퇴사를 결정하였습니다.</kotext>
         <company>맑음</company>
         <period>2016.04</period>
         <url>http://www.bandooptical.com/</url>
@@ -325,7 +363,9 @@
         <entitle>BC Card</entitle>
         <entext>web app management</entext>
         <kotitle>BC카드 모바일 구축</kotitle>
-        <kotext>2016. 08. 17 ~ 2016. 09. 13</kotext>
+        <kotext>미디어포스얼라이언스(M4A)에 입사였고 대부분 업체에 상주해서 작업하며 프로젝트를 진행하였습니다.
+        2016년 08월 17일부터 2016년 09월 13일까지 BC카드 모바일 구축 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 2명이 프로젝트에 투입되어 진행하였고, 업무 관련하여 소통하며 협업하는 경험을 하였습니다.</kotext>
         <company>M4A</company>
         <period>2016.08</period>
         <url>https://play.google.com/store/apps/details?id=com.bccard.bcsmartapp</url>
@@ -333,9 +373,11 @@
     <exp id="34">
         <number>34</number>
         <entitle>shinhan card</entitle>
-        <entext>mobile renewal development</entext>
-        <kotitle>신한카드 모바일 웹 구축</kotitle>
-        <kotext>2016. 12. 19 ~ 2017. 03. 24</kotext>
+        <entext>mobile web renewal</entext>
+        <kotitle>신한카드 모바일 웹 리뉴얼</kotitle>
+        <kotext>2016년 12월 19일부터 2017년 03월 24일까지 신한카드 모바일 웹 리뉴얼 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 4명이 프로젝트 팀원(PA)으로 투입되었고, 프로젝트 리더(PL)가 제작한 가이드에 맞춰 페이지 작업을 수행하였습니다.
+        </kotext>
         <company>M4A</company>
         <period>2016.12</period>
         <url>https://play.google.com/store/apps/details?id=com.shinhancard.smartshinhan&amp;hl=ko</url>
@@ -345,7 +387,9 @@
         <entitle>M4A</entitle>
         <entext>web mobile renewal development</entext>
         <kotitle>M4A 웹 모바일 홈페이지 리뉴얼</kotitle>
-        <kotext>2017. 08. 07 ~ 2017. 08. 18</kotext>
+        <kotext>2017년 08월 07일부터 2017년 08월 18일까지 본사에 들어와 M4A 웹 모바일 홈페이지 리뉴얼 프로젝트에 참여하였습니다.
+        MAIN, ABOUT, CONTACT 페이지 작업 100% 진행하였고, 다음 프로젝트 진행으로 인해 남은 페이지는 본사에 남아있던 팀원이 마무리 하였습니다.
+        </kotext>
         <company>M4A</company>
         <period>2017.08</period>
         <url>http://www.m4a.co.kr</url>
@@ -355,7 +399,10 @@
         <entitle>standard chartered</entitle>
         <entext>app development</entext>
         <kotitle>SC제일은행 셀프뱅크 앱 구축</kotitle>
-        <kotext>2017. 08. 21 ~ 2018. 01. 31</kotext>
+        <kotext>2017년 08월 21일부터 2018년 01월 31일까지 셀프뱅크은 고객이 쉽고 간편하게 통장개설을 하는 SC제일은행의 셀프뱅크 앱 구축 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 1명 중 프로젝트 팀원(PA)으로 투입되었고 공통 가이드를 제작했습니다.
+        SC제일은행과 프로젝트 리더(PL)간의 보안상 문제로 인해 SC제일은행 내부로 들어올 수 없는 상황이 되어, 프로젝트 팀원(PA)으로 있었던 제가 개발자와 다이렉트 소통을 하며 프로젝트를 마무리하였습니다.
+        </kotext>
         <company>M4A</company>
         <period>2017.08</period>
         <url>정보없음</url>
@@ -363,9 +410,11 @@
     <exp id="37">
         <number>37</number>
         <entitle>standard chartered</entitle>
-        <entext>pad development</entext>
-        <kotitle>SC제일은행 PPR 구축</kotitle>
-        <kotext>2017.03. 20 ~ 2018. 04. 10</kotext>
+        <entext>app development</entext>
+        <kotitle>SC제일은행 PPR(Paperless Process Reengineering) 구축</kotitle>
+        <kotext>2017년 03월 20일부터 2018년 04월 10일까지 금융 창구에서 종이 없이 프로세스를 진행하는 SC제일은행의 PPR 구축 프로젝트에 참여하였습니다.
+        다른 직원이 메인으로 작업했던 것에서 수정사항을 작업해서 전달하였기 때문에 짧은 기간동안 진행하였습니다.
+        </kotext>
         <company>M4A</company>
         <period>2017.03</period>
         <url>정보없음</url>
@@ -375,27 +424,33 @@
         <entitle>samsung SDS</entitle>
         <entext>internal system development</entext>
         <kotitle>삼성SDS 내부시스템 구축</kotitle>
-        <kotext>2018.04.17~ 2018.10.31 삼성SDS 내부시스템 오픈</kotext>
+        <kotext>2018년 04월 17일부터 2018년 10월 31일까지 삼성SDS 내부시스템 구축 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 3명 중 프로젝트 팀원(PA)으로 투입되었고 공통 가이드를 제작했습니다.
+        내부에서 사용하는 시트템을 구축하였기 때문에 보안상 정보를 제공할 수 없습니다.</kotext>
         <company>M4A</company>
         <period>2018.04</period>
         <url>정보없음</url>
     </exp>
     <exp id="39">
         <number>39</number>
-        <entitle>shinhan</entitle>
+        <entitle>SHINHAN</entitle>
         <entext>web app management</entext>
         <kotitle>신한판클럽 운영</kotitle>
-        <kotext>2018.04.17~ 2018.10.31 이벤트 페이지 퍼블리싱(html, css, jquery)</kotext>
+        <kotext>2018년 04월 17일부터 2018년 10월 31일까지 신한판클럽 운영 프로젝트에 참여하였습니다.
+        주로 이벤트 페이지 작업을 진행하였고 10월까지 M4A와의 계약이 만료가 되어 짧은 기간동안 운영을 맡아 마무리하였습니다.
+        </kotext>
         <company>M4A</company>
         <period>2018.04</period>
         <url>정보없음</url>
     </exp>
     <exp id="40">
         <number>40</number>
-        <entitle>shinhan</entitle>
-        <entext>web app development</entext>
+        <entitle>SHINHAN</entitle>
+        <entext>app development</entext>
         <kotitle>신한카드 디지털DIY</kotitle>
-        <kotext>2019.03.11 ~ 2019.03.22 반응형 레이아웃 작업(html, css, jquery)</kotext>
+        <kotext>2019년 03월11일부터 2019년 03월 22일까지 신한카드 디지털DIY 구축 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 1명 중 프로젝트 팀원(PA)로 투입되었고 공통 가이드를 제작했습니다.
+        프로젝트 진행 도중 프리랜서로 전향하기 위해 퇴사를 결정하였습니다.</kotext>
         <company>M4A</company>
         <period>2019.03</period>
         <url>정보없음</url>
@@ -405,7 +460,8 @@
         <entitle>lottecard</entitle>
         <entext>web app management</entext>
         <kotitle>롯데카드 홈페이지, 모바일 운영</kotitle>
-        <kotext>2019. 04 ~ 2019. 08 (Git, JIRA)</kotext>
+        <kotext>2019년 04월부터 2019년 08월까지 롯데카드 홈페이지, 모바일 운영 프로젝트에 참여하였습니다.
+        Git, JIRA 시스템을 사용하여 작업을 하였고 팀원 3명과 카테고리를 분배하여 맡아 진행하였습니다.</kotext>
         <company>씨앤엠소프트</company>
         <period>2019.04</period>
         <url>정보없음</url>
@@ -415,7 +471,8 @@
         <entitle>hundaecard</entitle>
         <entext>web app management</entext>
         <kotitle>현대카드 인증방식표준화 구축</kotitle>
-        <kotext>2019. 09 ~ 2019. 12 Sketch로 작업진행)</kotext>
+        <kotext>2019년 09월부터 2019년 12월까지 현대카드 인증방식표준화 구축 프로젝트에 참여하였습니다.
+        스케치로 디자인 전달을 받아 SASS를 이용하여 작업 진행을 하였습니다.</kotext>
         <company>에프아이엔</company>
         <period>2019.09</period>
         <url>정보없음</url>
@@ -424,10 +481,12 @@
         <number>43</number>
         <entitle>standardchartered</entitle>
         <entext>web app management</entext>
-        <kotitle>SC제일은행 홈페이지(반응형), 모바일뱅킹 앱, mobility platform 앱, PPR 앱 운영</kotitle>
-        <kotext>2020. 01 ~ 2020. 12</kotext>
+        <kotitle>SC제일은행</kotitle>
+        <kotext>2020년 01월부터 2020년 12월까지 SC제일은행 계약직(9개월)에서 정규직 전환하여 업무를 하였습니다.
+        홈페이지(반응형), 모바일뱅킹 앱, mobility platform 앱, PPR 앱 운영 업무를 진행하였습니다.
+        기본적으로 업무에 필요한 포토샵 조차도 제대로 설치해주지 않는 업무 환경에서 일을 할 수 없다고 판단되어 아쉬움은 크지만 퇴사를 결정하였습니다.</kotext>
         <company>SC제일은행</company>
-        <period>2020. 01</period>
+        <period>2020.01</period>
         <url>https://www.standardchartered.co.kr/</url>
     </exp>
     <exp id="44">
@@ -435,9 +494,10 @@
         <entitle>KB bank</entitle>
         <entext>web app development</entext>
         <kotitle>국민은행 개인뱅킹, 기업뱅킹, 기업앱 구축</kotitle>
-        <kotext>2021. 01 ~ 2021. 06</kotext>
+        <kotext>2021년 01월부터 2021년 06월까지 국민은행 개인뱅킹, 기업뱅킹, 기업앱 구축 프로젝트에 참여하였습니다.
+        프로젝트 리더(PL) 1명, 프로젝트 팀원(PA) 4명 중 프로젝트 팀원(PA)로 투입되었고, 프로젝트 리더(PL)가 제작한 가이드에 맞춰 페이지 작업을 수행하였습니다.</kotext>
         <company>M4A</company>
-        <period>2021. 01</period>
+        <period>2021.01</period>
         <url>https://www.standardchartered.co.kr/</url>
     </exp>
     
