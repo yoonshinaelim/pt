@@ -6,7 +6,7 @@
     /* experience */
     /* about */
     .title_box.ab{position:fixed;top:0;left:0;background:url(../img/about/bg_about.jpg) center no-repeat;background-size:cover;}
-    .title_box.ab .tit{font-size:5rem;line-height:8rem;}
+    .title_box.ab .tit{font-size:5rem;line-height:8rem;padding:0 2rem;width:auto;}
     .title_box.ab +.contents {margin-top:66.25rem;}
     .section .box{flex:1;}
     .section.box1,
