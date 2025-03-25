@@ -29,6 +29,7 @@
     .contents .list li{width:50%;}
     /* menu */
     .list_menu .list li a{font-size:7rem;}
+    .ex_wrap .cell{width:auto;}
     .ex_wrap .list_info{margin-left:5rem;}
     .foot_wrap .btn_kakao{position:relative;margin-top:3.125rem;background-size:25px auto;display:block;}
 }
