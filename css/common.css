@@ -81,7 +81,7 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 .section.box2 .txt_box{position:relative;top:6.25rem;}
 /* box3 */
 .section.box3{margin-top:20.5rem;flex-direction:row-reverse;align-items:flex-end;}
-.section.box3 .box:last-of-type{padding-right:6.25rem;}
+.section.box3 .box:last-of-type{padding-right:5rem;}
 .section.box3 .bg{width:49.125rem;height:28.5625rem;background:url(../img/about/bg_03.jpg) no-repeat 0 0;background-size:100% auto;}
 .section.box3 .txt_box{position:relative;top:6.25rem;}
 
