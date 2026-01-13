@@ -75,8 +75,8 @@ if (document.querySelector("#wrap").classList.contains("main")) {
             yoyo:true
         }
     });
-    const commonProps = {y:-50, opacity:1, duration:2 , ease:"power1.out"},
-          box1Props = {rotation:0, y:-50, opacity:1, duration:2 , ease:"power1.out"};
+    const commonProps = {y:-100, opacity:1, duration:5, ease:"power1.out"},
+          box1Props = {rotation:0, opacity:1, duration:5, ease:"power1.out"};
     tl.to(".box1 .bg", box1Props)
       .to(".box1 .txt_box", commonProps)
       .to(".box2 .bg", commonProps)

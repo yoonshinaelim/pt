@@ -35,7 +35,6 @@
 }
 @media all and (max-width: 640px){
     html, body {font-size:10px;transition:all .2s linear;}
-
     .contents .list li{width:100%;}
     /* menu */
     .list_menu .list li{padding:0 2.5rem;}

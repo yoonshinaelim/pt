@@ -95,7 +95,7 @@ input, textarea, button{font-family:'Noto Serif KR', Poppins;}
 .section.box5{margin-top:20.5rem;flex-direction:column;}
 .section.box5 .bg_box{display:flex;flex-wrap:nowrap;width:100%;justify-content:space-between;margin-bottom:100px;}
 .section.box5 .bg_box .img{text-align:center;}
-.section.box5 .bg_box .bg{width:26.75rem;height:22.3125rem;display:inline-block;}
+.section.box5 .bg_box .bg{width:21.625rem;height:30.375rem;display:inline-block;}
 .section.box5 .bg_box .bg.type1{background:url(../img/about/bg_04_02.jpg) no-repeat 0 0;background-size:100% auto;}
 .section.box5 .bg_box .bg.type2{background:url(../img/about/bg_04_03.jpg) no-repeat 0 0;background-size:100% auto;}
 .section.box5 .bg_box .bg.type3{background:url(../img/about/bg_04_04.jpg) no-repeat 0 0;background-size:100% auto;}
