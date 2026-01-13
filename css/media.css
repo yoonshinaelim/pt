@@ -9,10 +9,10 @@
     .title_box.ab .tit{font-size:5rem;line-height:8rem;padding:0 2rem;width:auto;}
     .title_box.ab +.contents {margin-top:66.25rem;}
     .section .box{flex:1;}
-    .section.box1,
     .section.box2,
     .section.box3,
     .section.box4{flex-direction:column;margin-top:15.5rem;}
+    .section.box1{flex-direction:column;margin-top:0;}
     .section.box2 .box:last-of-type,
     .section.box3 .box:last-of-type,
     .section.box4 .box:last-of-type{padding-right:0;padding-left:0;}
